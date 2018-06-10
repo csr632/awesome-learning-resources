@@ -89,88 +89,84 @@
 * [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
 
+* [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
+
 # 编译原理
 * [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
   这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
 * [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。
 
-# GIT
-[Pro Git](https://git-scm.com/book/en/v2)
-[图解Git](http://marklodato.github.io/visual-git-guide/index-en.html)
-[廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+# 计算机网络
+* [计算机网络 自顶向下方法](https://book.douban.com/subject/26176870/) 经典教材，计网入门推荐基本都是这个。官网有[补充资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)。
+* [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/) 深入讲解TCP/IP的内容。不适合入门。如果是相关专业或者岗位的话，需要通过这套书籍来进阶。
+
+# 工程化
+## GIT
+* [Pro Git](https://git-scm.com/book/en/v2) Git官网推荐的书。也可以边用边查[Reference](https://git-scm.com/docs)。
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-en.html) 用图片讲解了Git的基本操作，适合初学者。
+* [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 比较靠谱的中文教程。
+
+## 软件工程
+* [人月神话](https://book.douban.com/subject/1102259/)
+* [代码大全（第2版）](https://book.douban.com/subject/1477390/)
+* [敏捷软件开发](https://book.douban.com/subject/1140457/)
+* [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
+
+# 程序员的自我修养
+* [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
+* [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
+* [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
+
+# C++
+C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉。
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 # 机器学习
-[Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) 已有纸质书
-[Pattern Recognition and Machine Learning](http://prml.github.io/)
-[Deep Learning](https://github.com/exacity/deeplearningbook-chinese)
-[Machine learning: a propability perspective](https://mitpress.mit.edu/books/machine-learning-0)
-[机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
-[The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
-[统计学习方法](https://book.douban.com/subject/10590856/)
+书籍：
+* [Artificial Intelligence: A Modern Approach](https://book.douban.com/subject/6730363/) 经典教科书。它的[官网](http://aima.cs.berkeley.edu/)有补充资料。
+* [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)
+* [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) 被誉为“深度学习圣经”。
+* [Machine learning: a propability perspective](https://book.douban.com/subject/10758624/) 领域经典。
+* [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
+* [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
+* [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
 
-[机器学习经典书籍](http://suanfazu.com/t/topic/15)
-[人工智能入门书单（附PDF链接）](http://www.sohu.com/a/218561098_355140)
+> 其他机器学习书单：[机器学习经典书籍](http://suanfazu.com/t/topic/15) [人工智能入门书单（附PDF链接）](http://www.sohu.com/a/218561098_355140)
 
-[吴恩达机器学习](https://study.163.com/course/courseMain.htm?courseId=1004570029) 这个翻译自Andrew Ng 2017-2018年在[coursera](https://www.coursera.org/learn/machine-learning)的公开课。在cs229的基础上降低了一些难度，适合入门。
-[cs229](http://cs229.stanford.edu/syllabus.html) 上面这个课程的加强版。这是斯坦福的课程，通过看course notes来学习。
-[UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) 斯坦福提供的Unsupervised Feature Learning and Deep Learning Tutorial，可以作为参考小册。
-[cs231n](http://cs231n.github.io/) 来自斯坦福的精品课程，有course notes和视频。[CS231n官方笔记授权翻译](https://zhuanlan.zhihu.com/p/21930884)。
-[台湾大学李宏毅的课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 在知乎上很受欢迎。
+课程：
+* [吴恩达机器学习](https://study.163.com/course/courseMain.htm?courseId=1004570029) 这个翻译自Andrew Ng 2017-2018年在[coursera](https://www.coursera.org/learn/machine-learning)的公开课。在cs229的基础上降低了一些难度，适合入门。
+* [cs229](http://cs229.stanford.edu/syllabus.html) 上面这个课程的加强版。这是斯坦福的课程，通过看course notes来学习。
+  * [UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) 斯坦福提供的Unsupervised Feature Learning and Deep Learning Tutorial，可以作为参考小册。
+* [cs231n](http://cs231n.github.io/) 来自斯坦福的精品课程，先讲解深度学习（卷积神经网络），然后将它应用于计算机视觉。有course notes和视频。[CS231n官方笔记授权翻译](https://zhuanlan.zhihu.com/p/21930884)。
+* [台湾大学李宏毅的课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 在知乎上很受欢迎。中文授课。
 
-[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习的Awesome List，Star数超高。README按照语言分类，列举机器学习工具，这个列表是应该是为专业人员建立的。其他文档分别推荐了博客、书籍、公开课、会议。非常完备，但是更适合已经入门者。
-[Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
+其他机器学习合集：
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习的Awesome List，Star数超高。README按照语言分类，列举各个语言下的机器学习工具（这个列表是应该是为专业人员建立的），非常完备，但是更适合已经入门者。其他文档分别推荐了博客、书籍、公开课、会议。
+* [Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
 
 > 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
 
-# Optimization (优化理论)
-I. Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
-II. Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
-链接：https://www.zhihu.com/question/28438145/answer/118858220
+# 数学基础
 
-# 线性代数
-[Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)
-[Linear Algebra - MIT公开课](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 这个是[OCW Scholar(Open CourseWare Scholar)](https://ocw.mit.edu/courses/ocw-scholar/)版本，专门为自学者收编，除了课堂视频和课堂讲稿以外，还有习题讲解视频、作业和答案等资源，更加完备。
-[Linear Algebra and Its Applications](https://book.douban.com/subject/1425950/) 已有纸质书
+## Optimization (优化理论)
+[相关推荐](https://www.zhihu.com/question/25120338)里少不了这两本：
+* Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
+* Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
 
-# 概率与统计
-[All of Statistics](http://www.stat.cmu.edu/~larry/all-of-statistics/)
-[概率论与数理统计](https://book.douban.com/subject/2201479/)
-[概率论及其应用](https://book.douban.com/subject/1785817/)
+## 线性代数
+* [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)
+* [Linear Algebra - MIT公开课](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 这个是[OCW Scholar(Open CourseWare Scholar)](https://ocw.mit.edu/courses/ocw-scholar/)版本，专门为自学者收编，除了课堂视频和课堂讲稿以外，还提供了习题讲解视频、作业和答案等资源，更加完备。
+* [Linear Algebra and Its Applications](https://book.douban.com/subject/1425950/)
 
+## 概率与统计
+* [All of Statistics](https://book.douban.com/subject/2285151/) 备受推荐。内容很好地涵盖了机器学习所需，又不至于太臃肿。在[官网](http://www.stat.cmu.edu/~larry/all-of-statistics/)可以下载pdf版本。
+* [概率论与数理统计](https://book.douban.com/subject/2201479/) 陈希孺院士的书在豆瓣和知乎都好评如潮。
+* [概率论及其应用](https://book.douban.com/subject/1785817/)
 
-# 书单
-[What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
+****
+# 杂项
+## 书单
+* [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
 
-# C++
-[The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-
-STL源码剖析 已有纸质书
-
-# 计网
-计算机网络 自顶向下方法 已有纸质书 [课外资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)
-
-# 软件工程
-## 现代软件工程讲义（邹欣）
-http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html
-
-## 代码大全2
-
-## 敏捷软件开发
-https://book.douban.com/subject/1140457/
-
-## 人月神话
-
-# 刘未鹏
-http://mindhacks.cn/
-暗时间
-
-# 黑客与画家
-
-# docker
-[Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
-
-# 公开课
-[MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 都是经典，第一个线性代数是经典中的经典。选择需要的学习吧。
-
-# 快捷键
-[快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
+## 公开课
+* [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
