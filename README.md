@@ -13,17 +13,18 @@
 
 # JavaScript
 
-## 基础
-JavaScript高级程序设计
-[Speaking JavaScript](http://speakingjs.com/es5/index.html)
-[JavaScript 标准参考教程](https://javascript.ruanyifeng.com/)（结合MDN与《JavaScript高级程序设计》阅读）
-[JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
-[The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，以及[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)
+## js基础
+* [Speaking JavaScript](http://speakingjs.com/es5/index.html) 相信很多js开发者都看过这个作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客。这本书具有完整的ECMAScript知识体系，**它专注于[ECMAScript这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。ES6的内容被专门收集到另一本书Exploring ES6。
+* [JavaScript高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和Web API。第三版有点老了，不过依旧是经典，2018年9月会出第四版。
+* [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去MDN或《JavaScript高级程序设计》找到相同的知识点来阅读。
+* [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 详细讲解了Prototype、Execution context、lexical environment、Closure等高级概念。内容非常新，基于ES6。
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分js开发者应该都听过，开源神书，进阶必读。
+* [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
+  > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
 
 ## ES6
-http://es6.ruanyifeng.com/
-http://exploringjs.com/es6.html
+* [Exploring ES6](http://exploringjs.com/es6.html) 同样是[Dr. Axel Rauschmayer](http://dr-axel.de/)的书，可以看作是Speaking JavaScript的ES6增量更新包。
+* [ECMAScript 6 入门 - 阮一峰](http://es6.ruanyifeng.com/) 通过例子来学习ES6，可以看作是JavaScript 标准参考教程的ES6增量更新包。中文看起来比较亲切。
 
 ## v8
 https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af
