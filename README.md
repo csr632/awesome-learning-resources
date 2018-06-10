@@ -3,7 +3,7 @@
 
 收录内容的主要来源是：知乎、StackOverflow上的高分回答，以及在GitHub上的其他收集类项目。
 
-收录的依据主要是：在领域内的经典程度、推荐它的回答是否是高分回答、有多少答主推荐它、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏。
+收录的依据主要是：在领域内的经典程度、作者权威性、推荐它的回答是否是高分回答、有多少答主推荐它、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏等等。
 
 > 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
 
@@ -11,36 +11,50 @@
 ****
 以下是收录的内容：
 
-# JavaScript
+# 前端
 
-## js基础
+## JavaScript开发进阶
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) 相信很多js开发者都看过这个作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客。这本书具有完整的ECMAScript知识体系，**它专注于[ECMAScript这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。ES6的内容被专门收集到另一本书Exploring ES6。
-* [JavaScript高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和Web API。第三版有点老了，不过依旧是经典，2018年9月会出第四版。
-* [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去MDN或《JavaScript高级程序设计》找到相同的知识点来阅读。
+* [JavaScript高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和Web API。第三版有点老了，只涵盖ES5，不过依旧是经典，2018年9月会出第四版。
+* [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去MDN或《JavaScript高级程序设计》找到相同的知识点来阅读。ES6的内容被专门收集到另一本书ECMAScript 6 入门。
 * [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 详细讲解了Prototype、Execution context、lexical environment、Closure等高级概念。内容非常新，基于ES6。
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分js开发者应该都听过，开源神书，进阶必读。
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分js开发者应该都听说过，开源神书，进阶必读。
 * [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
   > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
+* [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch) JavaScript视频推荐列表，Star数量很多。不过内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) JavaScript技术会议。同样内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。可以[按照热度排序](https://www.youtube.com/user/jsconfeu/videos?view=0&flow=grid&sort=p)。
 
 ## ES6
 * [Exploring ES6](http://exploringjs.com/es6.html) 同样是[Dr. Axel Rauschmayer](http://dr-axel.de/)的书，可以看作是Speaking JavaScript的ES6增量更新包。
 * [ECMAScript 6 入门 - 阮一峰](http://es6.ruanyifeng.com/) 通过例子来学习ES6，可以看作是JavaScript 标准参考教程的ES6增量更新包。中文看起来比较亲切。
 
 ## v8
-https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af
-http://mrale.ph/v8/resources.html
-https://blog.sessionstack.com/@zlatkov
+* [How do I get started with V8 development?](https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af) 作者大姐姐是V8的开发者，YouTube上有很多她的演讲。这篇文章提供了很多进入V8源码世界的资料。对于V8爱好者，她的博客、[讲座](https://medium.com/fhinkel/conference-talks-2017-3c0ed426406f)都值得关注。
+  > [YouTube上有关V8的讲座](https://www.youtube.com/results?search_query=JSConf+v8)
+* [Vyacheslav Egorov](https://mrale.ph/) 介绍了很多V8底层的原理。作者之前是V8开发者，现在似乎跳槽了。就算不打算学编译器，js开发者也应该读一读这两篇文章：[Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)， [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)。
+* [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) 讲解了V8优化执行速度的几种基本方式，了解它们有助于我们写出更加V8 friendly的代码。以Angular为例，Angular源码利用[Monomorphic](https://github.com/angular/angular/search?q=Monomorphic&unscoped_q=Monomorphic)来优化代码，Angular编译出的JavaScript也是[VM-friendly](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)的。
+  > 他的[专栏](https://blog.sessionstack.com/tagged/tutorial)有更多关于JavaScript原理的文章。
 
-## 应用
-[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-[深入浅出 Webpack](http://webpack.wuhaolin.cn/)
-[awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn)
+## 前端实践指南
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
+* [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack学习资料。不过如果可以的话还是直接阅读官方文档吧。
+* 前端性能优化：知识点比较零散，可以看看清单类的博客，比如[2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)，或者[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)的"Performance"章节。
+* [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
 
-# Angular
-rxjs
-Compile
-部署
-[awesome-angular](https://github.com/gdi2290/awesome-angular)
+## Angular
+官方文档就不需要提了，这里只列举用于进阶的资料。
+* [Angular In Depth](https://blog.angularindepth.com/) 应该是最深入、访问量最大的Angular专栏了。经常对Angular进行源码级别的剖析。
+* [Trotyl Yu](https://www.zhihu.com/people/trotyl/answers) 知乎里最活跃的Angular答主之一（还有[雪狼](https://www.zhihu.com/people/alpha-gde/answers)和[VTHINKXIE](https://www.zhihu.com/people/vthinkxie/posts)），它的专栏[Angular News](https://zhuanlan.zhihu.com/angular-news) [禅与摩托车轮子维修艺术](https://zhuanlan.zhihu.com/trotyl)都是Angular干货。
+  > 大佬们都在[为什么前端讨论的都是各种react，vue源码解析，渲染机制等，没人讨论angular？ - 知乎](https://www.zhihu.com/question/274940977)发言了，哈哈有点意思。
+* [Angular资料获取不完全指南](https://zhuanlan.zhihu.com/p/36385830) 列举了一些有名的博客，经常查找Angular资料的同学应该很熟悉这些博客了。
+* [Angular Articles](https://zhuanlan.zhihu.com/p/32818978) 作者同上，Angular文章推荐。
+* [Angular设计文档](https://drive.google.com/drive/folders/0BxgtL8yFJbacQmpCc1NMV3d5dnM) 官方设计文档，但是感觉有点缺乏维护，有一些东西很旧了。不过还是有很多优质的设计文档的，需要挖掘。
+* 经常有Angular团队成员出席这些会议：
+  * [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+  * [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
+  * [AngularMIX](https://www.youtube.com/channel/UCnUpEUN4V3iJxoUximdr6Nw)
+* [awesome-angular](https://github.com/gdi2290/awesome-angular) 很全面的Angular学习资源列表。缺点是有点杂。建议先看[Angular Connect小节](https://github.com/gdi2290/awesome-angular#angular-connect)精选的会议视频。
+
 
 # 算法
 Introduction to Algorithms
