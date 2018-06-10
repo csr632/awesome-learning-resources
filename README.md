@@ -4,6 +4,7 @@
 收录内容的主要来源是：知乎、StackOverflow上的高分回答，以及在GitHub上的其他收集类项目。
 
 收录的依据主要是：在领域内的经典程度、作者权威性、推荐它的回答是否是高分回答、有多少答主推荐它、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏等等。
+不放心的同学可以在阅读之前在知乎或Google搜索相关的评价。
 
 > 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
 
@@ -40,6 +41,8 @@
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack学习资料。不过如果可以的话还是直接阅读官方文档吧。
 * 前端性能优化：知识点比较零散，可以看看清单类的博客，比如[2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)，或者[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)的"Performance"章节。
 * [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
+* [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。
+* [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star数量也挺高的。
 
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
@@ -55,11 +58,14 @@
   * [AngularMIX](https://www.youtube.com/channel/UCnUpEUN4V3iJxoUximdr6Nw)
 * [awesome-angular](https://github.com/gdi2290/awesome-angular) 很全面的Angular学习资源列表。缺点是有点杂。建议先看[Angular Connect小节](https://github.com/gdi2290/awesome-angular#angular-connect)精选的会议视频。
 
+* [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016) 这个专栏专门收集最受欢迎的技术文章、公开课，每个月或每一年更新一次。他们还做了React、Node.js、python、machine learning等技术的排行。
+* [RxJS Marbles](http://rxmarbles.com/) 通过交互式动画来学习Rx Observables。
 
 # 算法
 Introduction to Algorithms
 算法概论，已有纸质书
 Algorithm，已有纸质书
+* [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多关于数据结构、算法的文章。
 
 # 深入理解计算机系统
 已有纸质书
@@ -83,6 +89,7 @@ https://youtu.be/sm0QQO-WZlM
 
 # GIT
 [Pro Git](https://git-scm.com/book/en/v2)
+[图解Git](http://marklodato.github.io/visual-git-guide/index-en.html)
 [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 # 机器学习
@@ -97,13 +104,16 @@ https://youtu.be/sm0QQO-WZlM
 [机器学习经典书籍](http://suanfazu.com/t/topic/15)
 [人工智能入门书单（附PDF链接）](http://www.sohu.com/a/218561098_355140)
 
-[机器学习课程 Andrew Ng](https://study.163.com/course/courseMain.htm?courseId=1004570029)
+[吴恩达机器学习](https://study.163.com/course/courseMain.htm?courseId=1004570029) 这个翻译自Andrew Ng 2017-2018年在[coursera](https://www.coursera.org/learn/machine-learning)的公开课。在cs229的基础上降低了一些难度，适合入门。
+[cs229](http://cs229.stanford.edu/syllabus.html) 上面这个课程的加强版。这是斯坦福的课程，通过看course notes来学习。
+[UFLDL Tutorial](http://ufldl.stanford.edu/tutorial/) 斯坦福提供的Unsupervised Feature Learning and Deep Learning Tutorial，可以作为参考小册。
+[cs231n](http://cs231n.github.io/) 来自斯坦福的精品课程，有course notes和视频。[CS231n官方笔记授权翻译](https://zhuanlan.zhihu.com/p/21930884)。
+[台湾大学李宏毅的课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 在知乎上很受欢迎。
 
-[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习的Awesome List，Star数超高。README按照语言分类，列举机器学习工具，这个列表是应该是为专业人员建立的。其他文档分别推荐了博客、书籍、公开课、会议。非常完备，但是更适合已经入门者。
+[Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
 
-[cs231n](http://cs231n.github.io/)
-
-[机器学习资源](https://github.com/allmachinelearning/MachineLearning)
+> 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
 
 # Optimization (优化理论)
 I. Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
@@ -112,8 +122,7 @@ II. Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
 
 # 线性代数
 [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)
-[ocw.mit.edu](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-
+[Linear Algebra - MIT公开课](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 这个是[OCW Scholar(Open CourseWare Scholar)](https://ocw.mit.edu/courses/ocw-scholar/)版本，专门为自学者收编，除了课堂视频和课堂讲稿以外，还有习题讲解视频、作业和答案等资源，更加完备。
 [Linear Algebra and Its Applications](https://book.douban.com/subject/1425950/) 已有纸质书
 
 # 概率与统计
@@ -133,7 +142,7 @@ https://book.douban.com/subject/3652388/
 STL源码剖析 已有纸质书
 
 # 计网
-计算机网络 自顶向下方法 已有纸质书
+计算机网络 自顶向下方法 已有纸质书 [课外资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)
 
 # 软件工程
 ## 现代软件工程讲义（邹欣）
@@ -159,3 +168,9 @@ http://mindhacks.cn/
 [The Linux Command Line](http://linuxcommand.org/tlcl.php)，[TLCL中译本](http://billie66.github.io/TLCL/book/)
 [鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/)
 实用技巧：[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+# 公开课
+[MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 都是经典，第一个线性代数是经典中的经典。选择需要的学习吧。
+
+# 快捷键
+[快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
