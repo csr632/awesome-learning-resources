@@ -62,10 +62,10 @@
 * [RxJS Marbles](http://rxmarbles.com/) 通过交互式动画来学习Rx Observables。
 
 # 算法
-Introduction to Algorithms
-算法概论，已有纸质书
-Algorithm，已有纸质书
-* [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多关于数据结构、算法的文章。
+* [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
+* [Algorithms](https://book.douban.com/subject/19952400/) 也是经典教材，评价也很高。据反映，它的涵盖面没有Introduction to Algorithms广和深，但是工程中的常见的算法都能找到，讲解更加易懂。
+* [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
+* [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
 
 # 深入理解计算机系统
 已有纸质书
