@@ -1,10 +1,12 @@
 # 最受推荐的书籍和网站
-收集最受推荐的书籍和网站，主要关注计算机基础、前端开发、机器学习的内容。
+收集最受推荐的书籍和网站，主要关注前端开发、计算机基础、机器学习的内容。
 
 收录内容的主要来源是：知乎、StackOverflow上的高分回答，以及在GitHub上的其他收集类项目。
 
 收录的依据主要是：在领域内的经典程度、作者权威性、推荐它的回答是否是高分回答、有多少答主推荐它、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏等等。
 不放心的同学可以在阅读之前在知乎或Google搜索相关的评价。
+
+**如果可以，尽量选择英文版的材料来阅读！**
 
 > 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
 
@@ -67,25 +69,30 @@
 * [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
 * [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
 
-# 深入理解计算机系统
-已有纸质书
+# 计算机基础
+* [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。
+* [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) [官网HTML版](https://mitpress.mit.edu/sicp/) [优化电子版](https://sicpebook.wordpress.com/) 神书，在豆瓣和知乎搜索一下。
+* [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
+* [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
+* 有关计算机组成原理的书待收录。
+* 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
+  > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
 
-# 操作系统
-[Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-[6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html)
+# 操作系统理论
+* [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。
+* [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
+> 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
+* [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT的操作系统课程，经常被推荐。其中的Xv6项目可以让学习者动手实践，非常难得。
 
-[Operating Systems: Principles and Practice](http://recursivebooks.com/)
+# 操作系统实践（Linux运维）
+* [The Linux Command Line(TLCL)](https://book.douban.com/subject/6806862/)，[官网可下载PDF](http://linuxcommand.org/tlcl.php)，[中译本](http://billie66.github.io/TLCL/book/) 生动清晰的入门小册，教你通过命令行真正地掌控计算机。非常适合Linux入门。在知乎和豆瓣的评价都很高。
+* [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
 
 # 编译原理
-cs143：
-[资料来源](https://zhuanlan.zhihu.com/p/28823258)
-http://web.stanford.edu/class/cs143/
-https://youtu.be/sm0QQO-WZlM
-龙书，已有纸质书
-
-# 计算机程序的构造和解释(SICP)
-[官网HTML版](https://mitpress.mit.edu/sicp/)
-[优化电子版](https://sicpebook.wordpress.com/)
+* [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
+  这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
+* [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。
 
 # GIT
 [Pro Git](https://git-scm.com/book/en/v2)
@@ -130,8 +137,6 @@ II. Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
 [概率论与数理统计](https://book.douban.com/subject/2201479/)
 [概率论及其应用](https://book.douban.com/subject/1785817/)
 
-# 程序员的自我修养
-https://book.douban.com/subject/3652388/
 
 # 书单
 [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)
@@ -163,11 +168,6 @@ http://mindhacks.cn/
 
 # docker
 [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/)
-
-# Linux
-[The Linux Command Line](http://linuxcommand.org/tlcl.php)，[TLCL中译本](http://billie66.github.io/TLCL/book/)
-[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/)
-实用技巧：[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 
 # 公开课
 [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 都是经典，第一个线性代数是经典中的经典。选择需要的学习吧。
