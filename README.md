@@ -11,10 +11,39 @@
 > 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
 
 
-****
-以下是收录的内容：
+# 目录
+<!--ts-->
+   * [最受推荐的书籍和网站](#最受推荐的书籍和网站)
+   * [前端](#前端)
+      * [JavaScript开发进阶](#javascript开发进阶)
+      * [ES6](#es6)
+      * [v8](#v8)
+      * [前端实践指南](#前端实践指南)
+      * [Angular](#angular)
+   * [算法](#算法)
+   * [计算机基础](#计算机基础)
+   * [操作系统理论](#操作系统理论)
+   * [操作系统实践（Linux运维）](#操作系统实践linux运维)
+   * [编译原理](#编译原理)
+   * [计算机网络](#计算机网络)
+   * [工程化](#工程化)
+      * [GIT](#git)
+      * [软件工程](#软件工程)
+   * [程序员的自我修养](#程序员的自我修养)
+   * [C++](#c)
+   * [机器学习](#机器学习)
+   * [数学基础](#数学基础)
+      * [Optimization (优化理论)](#optimization-优化理论)
+      * [线性代数](#线性代数)
+      * [概率与统计](#概率与统计)
+   * [杂项](#杂项)
+      * [书单](#书单)
+      * [公开课](#公开课)
+
+<!--te-->
 
 # 前端
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
 ## JavaScript开发进阶
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) 相信很多js开发者都看过这个作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客。这本书具有完整的ECMAScript知识体系，**它专注于[ECMAScript这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。ES6的内容被专门收集到另一本书Exploring ES6。
@@ -64,12 +93,16 @@
 * [RxJS Marbles](http://rxmarbles.com/) 通过交互式动画来学习Rx Observables。
 
 # 算法
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
 * [Algorithms](https://book.douban.com/subject/19952400/) 也是经典教材，评价也很高。据反映，它的涵盖面没有Introduction to Algorithms广和深，但是工程中的常见的算法都能找到，讲解更加易懂。
 * [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
 * [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
 
 # 计算机基础
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。
 * [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) [官网HTML版](https://mitpress.mit.edu/sicp/) [优化电子版](https://sicpebook.wordpress.com/) 神书，在豆瓣和知乎搜索一下。
 * [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
@@ -79,12 +112,16 @@
   > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
 
 # 操作系统理论
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。
 * [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
 > 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
 * [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT的操作系统课程，经常被推荐。其中的Xv6项目可以让学习者动手实践，非常难得。
 
 # 操作系统实践（Linux运维）
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [The Linux Command Line(TLCL)](https://book.douban.com/subject/6806862/)，[官网可下载PDF](http://linuxcommand.org/tlcl.php)，[中译本](http://billie66.github.io/TLCL/book/) 生动清晰的入门小册，教你通过命令行真正地掌控计算机。非常适合Linux入门。在知乎和豆瓣的评价都很高。
 * [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
@@ -92,15 +129,21 @@
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
 
 # 编译原理
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
   这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
 * [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。
 
 # 计算机网络
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [计算机网络 自顶向下方法](https://book.douban.com/subject/26176870/) 经典教材，计网入门推荐基本都是这个。官网有[补充资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)。
 * [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/) 深入讲解TCP/IP的内容。不适合入门。如果是相关专业或者岗位的话，需要通过这套书籍来进阶。
 
 # 工程化
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 ## GIT
 * [Pro Git](https://git-scm.com/book/en/v2) Git官网推荐的书。也可以边用边查[Reference](https://git-scm.com/docs)。
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-en.html) 用图片讲解了Git的基本操作，适合初学者。
@@ -113,15 +156,21 @@
 * [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
 
 # 程序员的自我修养
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 * [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
 * [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
 * [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
 # C++
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉。
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 # 机器学习
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 书籍：
 * [Artificial Intelligence: A Modern Approach](https://book.douban.com/subject/6730363/) 经典教科书。它的[官网](http://aima.cs.berkeley.edu/)有补充资料。
 * [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)
@@ -147,6 +196,7 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 > 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
 
 # 数学基础
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
 ## Optimization (优化理论)
 [相关推荐](https://www.zhihu.com/question/25120338)里少不了这两本：
@@ -163,8 +213,9 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 * [概率论与数理统计](https://book.douban.com/subject/2201479/) 陈希孺院士的书在豆瓣和知乎都好评如潮。
 * [概率论及其应用](https://book.douban.com/subject/1785817/)
 
-****
 # 杂项
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
 ## 书单
 * [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
 
