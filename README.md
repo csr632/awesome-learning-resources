@@ -103,7 +103,7 @@
 # 计算机基础
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
-* [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。
+* [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。 [勘误表](http://yiligong.org/csapp3e/)
 * [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) [官网HTML版](https://mitpress.mit.edu/sicp/) [优化电子版](https://sicpebook.wordpress.com/) 神书，在豆瓣和知乎搜索一下。
 * [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
 * [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
