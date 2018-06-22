@@ -173,7 +173,7 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 书籍：
 * [Artificial Intelligence: A Modern Approach](https://book.douban.com/subject/6730363/) 经典教科书。它的[官网](http://aima.cs.berkeley.edu/)有补充资料。
 * [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)
-* [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) 被誉为“深度学习圣经”。
+* [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) 被誉为“深度学习圣经”。[中文版](https://github.com/exacity/deeplearningbook-chinese)已经出版并且开源。
 * [Machine learning: a propability perspective](https://book.douban.com/subject/10758624/) 领域经典。
 * [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
 * [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
@@ -193,6 +193,16 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 * [Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
 
 > 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
+
+* [deepo](https://github.com/ufoym/deepo) 轻松在Docker上搭建开发环境。
+
+## TensorFlow
+* [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+
+## PyTorch
+* [PyTorch Examples](https://github.com/pytorch/examples)
+* [Pytorch Tutorial](https://github.com/yunjey/pytorch-tutorial)
 
 # 数学基础
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
@@ -215,8 +225,9 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 # 杂项
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
-## 书单
+## 清单
 * [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
+* [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章。
 
 ## 公开课
 * [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
