@@ -188,13 +188,15 @@ C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉�
 * [cs231n](http://cs231n.github.io/) 来自斯坦福的精品课程，先讲解深度学习（卷积神经网络），然后将它应用于计算机视觉。有course notes和视频。[CS231n官方笔记授权翻译](https://zhuanlan.zhihu.com/p/21930884)。
 * [台湾大学李宏毅的课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html) 在知乎上很受欢迎。中文授课。
 
-其他机器学习合集：
+其他机器学习资源合集：
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习的Awesome List，Star数超高。README按照语言分类，列举各个语言下的机器学习工具（这个列表是应该是为专业人员建立的），非常完备，但是更适合已经入门者。其他文档分别推荐了博客、书籍、公开课、会议。
 * [Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
+* [deeplearning.net](http://deeplearning.net/reading-list/) 给出了很多基础性的论文。
 
 > 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
 
 * [deepo](https://github.com/ufoym/deepo) 轻松在Docker上搭建开发环境。
+* [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) 用 动图+论文 详细解释了卷积和逆卷积的过程。
 
 ## TensorFlow
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
