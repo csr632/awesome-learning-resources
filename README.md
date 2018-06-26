@@ -30,7 +30,7 @@
       * [GIT](#git)
       * [软件工程](#软件工程)
    * [程序员的自我修养](#程序员的自我修养)
-   * [C++](#c)
+   * [C/C++](#cc)
    * [Python](#python)
    * [机器学习](#机器学习)
    * [数学基础](#数学基础)
@@ -158,9 +158,10 @@
 * [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 比较靠谱的中文教程。
 
 ## 软件工程
+* [代码大全](https://book.douban.com/subject/1477390/)
+* [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
+* [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
 * [人月神话](https://book.douban.com/subject/1102259/)
-* [代码大全（第2版）](https://book.douban.com/subject/1477390/)
-* [敏捷软件开发](https://book.douban.com/subject/1140457/)
 * [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
 
 # 程序员的自我修养
@@ -170,10 +171,15 @@
 * [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
 * [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
-# C++
+# C/C++
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
-C++的资料直接看下面的链接或者上知乎搜吧，我也不太熟悉。
+* [C程序设计语言](https://book.douban.com/subject/1882483/)
+* [C++ Primer](https://book.douban.com/subject/25708312/)
+* [Effective C++](https://book.douban.com/subject/1842426/)
+* STL: [Effective STL](https://book.douban.com/subject/24534868/) + [STL源码剖析](https://book.douban.com/subject/1110934/)
+
+更多的资料直接看下面的链接或者上知乎搜索。
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 # Python
