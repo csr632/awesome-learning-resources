@@ -219,6 +219,8 @@
 其他机器学习资源合集：
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 机器学习的Awesome List，Star数超高。README按照语言分类，列举各个语言下的机器学习工具（这个列表是应该是为专业人员建立的），非常完备，但是更适合已经入门者。其他文档分别推荐了博客、书籍、公开课、会议。
 * [Machine learning Resources](https://github.com/allmachinelearning/MachineLearning) 收集机器学习资源的GitHub仓库，列举了很多入门资料。
+* [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) 这个repository收集了深度学习各个领域中最基础、重要的研究论文，进阶者可以从这里入手。star数量很高。
+* [Distill](https://distill.pub/) Distill是一个期刊平台，使用了交互式、视觉化的用户界面，注重对机器学习研究成果的理解与诠释。
 * [deeplearning.net](http://deeplearning.net/reading-list/) 给出了很多基础性的论文。
 
 > 相关知乎问题：[机器学习该怎么入门？ - 知乎](https://www.zhihu.com/question/20691338) [普通程序员如何正确学习人工智能方向的知识？ - 知乎](https://www.zhihu.com/question/51039416) [深度学习如何入门？ - 知乎](https://www.zhihu.com/question/26006703) [YouTube 上有哪些计算机方面的值得推荐的公开课？ - 知乎](https://www.zhihu.com/question/49071324)
