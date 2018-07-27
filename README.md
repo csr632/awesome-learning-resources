@@ -260,6 +260,7 @@
 ## 清单
 * [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
 * [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章。
+* [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
 
 ## 公开课
 * [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
