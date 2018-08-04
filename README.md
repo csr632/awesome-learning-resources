@@ -79,7 +79,13 @@
 * [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
 * [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。
 * [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star数量也挺高的。
-
+* [How browsers work](http://taligarsiel.com/Projects/howbrowserswork1.htm) 浏览器工作原理。弄懂它是理解前端性能优化的基础。相关中文文章：[中文翻译](http://blog.jobbole.com/12749/)、[浅析前端页面渲染机制](http://blog.codingplayboy.com/2017/03/29/webpage_render/)。
+* 前端性能优化清单：
+    * [PageSpeed Insights Rules - Google](https://developers.google.com/speed/docs/insights/rules)
+    * [Performance - Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+    * [Best Practices for Speeding Up Your Web Site - yahoo](https://developer.yahoo.com/performance/rules.html)
+    * [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+    * [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
 * [Angular In Depth](https://blog.angularindepth.com/) 应该是最深入、访问量最大的Angular专栏了。经常对Angular进行源码级别的剖析。
