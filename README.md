@@ -1,19 +1,19 @@
-# 最受推荐的书籍和网站
-收集最受推荐的书籍和网站，主要关注前端开发、计算机基础、机器学习的内容。
+# 最优质的学习资料
+本项目的目的是帮助开发者**更快地**找到**最优质的**学习资料。本项目主要关注前端开发、计算机基础、机器学习的内容。
 
 收录内容的主要来源是：知乎、StackOverflow上的高分回答，以及在GitHub上的其他收集类项目。
 
-收录的依据主要是：在领域内的经典程度、作者权威性、推荐它的回答是否是高分回答、有多少答主推荐它、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏等等。
-不放心的同学可以在阅读之前在知乎或Google搜索相关的评价。
+收录的依据主要是：在领域内的经典程度、作者权威性、推荐者的数量、推荐者的权威性、谷歌搜索排名、GitHub仓库的Star数量、豆瓣评分和评价、我听闻到它的次数和评价好坏等等。不放心的同学可以在阅读之前在知乎或Google搜索相关的评价。
 
 **如果可以，尽量选择英文版的材料来阅读！**
 
-> 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
+本项目将持续更新，如果你发现了其它优质的学习资料，欢迎提issue或pull request！如果这个项目有幸帮助到了你，欢迎推荐给朋友、加Star！
 
+> 这个列表上的大部分内容我都没有读完，这个列表仅仅用于满足自己的收集癖好。
 
 # 目录
 <!--ts-->
-* [最受推荐的书籍和网站](#最受推荐的书籍和网站)
+* [最优质的学习资料](#最优质的学习资料)
 * [目录](#目录)
 * [前端](#前端)
   * [JavaScript开发进阶](#javascript开发进阶)
@@ -268,6 +268,7 @@
 ## 清单
 * [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
 * [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。
+* [awesome lists](https://github.com/sindresorhus/awesome) 非常全面资源清单，不仅包括学习资源，而且涵盖了工具资源。
 
 ## 公开课
 * [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
