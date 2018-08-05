@@ -75,7 +75,6 @@
 ## 前端实践指南
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack学习资料。不过如果可以的话还是直接阅读官方文档吧。
-* 前端性能优化：知识点比较零散，可以看看清单类的博客，比如[2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)，或者[Google Web Fundamentals](https://developers.google.com/web/fundamentals/)的"Performance"章节。
 * [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
 * [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。
 * [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star数量也挺高的。
@@ -85,6 +84,7 @@
     * [Performance - Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
     * [Best Practices for Speeding Up Your Web Site - yahoo](https://developer.yahoo.com/performance/rules.html)
     * [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
+    * [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
     * [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
