@@ -1,5 +1,5 @@
 # 最优质的学习资料
-本项目的目的是帮助开发者**更快地**找到**最优质的**学习资料。本项目主要关注前端开发、计算机基础、机器学习的内容。
+本项目的目的是帮助开发者**更快地**找到**最优质的**学习资料。主要关注前端开发、计算机基础、机器学习的内容。
 
 收录内容的主要来源是：知乎、StackOverflow上的高分回答，以及在GitHub上的其他收集类项目。
 
@@ -70,7 +70,7 @@
   > [YouTube上有关V8的讲座](https://www.youtube.com/results?search_query=JSConf+v8)
 * [Vyacheslav Egorov](https://mrale.ph/) 介绍了很多V8底层的原理。作者之前是V8开发者，现在似乎跳槽了。就算不打算学编译器，js开发者也应该读一读这两篇文章：[Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)， [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)。
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) 讲解了V8优化执行速度的几种基本方式，了解它们有助于我们写出更加V8 friendly的代码。以Angular为例，Angular源码利用[Monomorphic](https://github.com/angular/angular/search?q=Monomorphic&unscoped_q=Monomorphic)来优化代码，Angular编译出的JavaScript也是[VM-friendly](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)的。
-  > 他的[专栏](https://blog.sessionstack.com/tagged/tutorial)有更多关于JavaScript原理的文章。
+  > [该专栏](https://blog.sessionstack.com/tagged/tutorial)有更多关于JavaScript原理的文章。
 
 ## 前端实践指南
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
@@ -79,7 +79,7 @@
 * [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。
 * [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star数量也挺高的。
 * [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
-* [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 经典面试题的完整回答。[英文原版仓库](https://github.com/alex/what-happens-when)的star数量很高。
+* [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 经典面试题的完整回答。下次面试被问到这个问题，你能把面试官答到崩溃。[英文原版仓库](https://github.com/alex/what-happens-when)star数量很高。
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 浏览器工作原理。弄懂它是理解前端性能优化的基础。相关中文文章：[中文翻译](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)、[浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)、[浅析前端页面渲染机制](http://blog.codingplayboy.com/2017/03/29/webpage_render/)。
 * 前端性能优化清单：
     * [PageSpeed Insights Rules - Google](https://developers.google.com/speed/docs/insights/rules)
@@ -92,7 +92,7 @@
 官方文档就不需要提了，这里只列举用于进阶的资料。
 * [Angular In Depth](https://blog.angularindepth.com/) 应该是最深入、访问量最大的Angular专栏了。经常对Angular进行源码级别的剖析。
 * [Trotyl Yu](https://www.zhihu.com/people/trotyl/answers) 知乎里最活跃的Angular答主之一（还有[雪狼](https://www.zhihu.com/people/alpha-gde/answers)和[VTHINKXIE](https://www.zhihu.com/people/vthinkxie/posts)），它的专栏[Angular News](https://zhuanlan.zhihu.com/angular-news) [禅与摩托车轮子维修艺术](https://zhuanlan.zhihu.com/trotyl)都是Angular干货。
-  > 大佬们都在[为什么前端讨论的都是各种react，vue源码解析，渲染机制等，没人讨论angular？ - 知乎](https://www.zhihu.com/question/274940977)发言了，哈哈有点意思。
+  > 大佬们都在[为什么前端讨论的都是各种react，vue源码解析，渲染机制等，没人讨论angular？ - 知乎](https://www.zhihu.com/question/274940977)回答了。
 * [Angular资料获取不完全指南](https://zhuanlan.zhihu.com/p/36385830) 列举了一些有名的博客，经常查找Angular资料的同学应该很熟悉这些博客了。
 * [Angular Articles](https://zhuanlan.zhihu.com/p/32818978) 作者同上，Angular文章推荐。
 * [Angular设计文档](https://drive.google.com/drive/folders/0BxgtL8yFJbacQmpCc1NMV3d5dnM) 官方设计文档，但是感觉有点缺乏维护，有一些东西很旧了。不过还是有很多优质的设计文档的，需要挖掘。
@@ -203,7 +203,7 @@
 
 书籍：
 * [Artificial Intelligence: A Modern Approach](https://book.douban.com/subject/6730363/) 经典教科书。它的[官网](http://aima.cs.berkeley.edu/)有补充资料。
-* [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)
+* [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)。
 * [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) 被誉为“深度学习圣经”。[中文版](https://github.com/exacity/deeplearningbook-chinese)已经出版并且开源。
 * [Machine learning: a propability perspective](https://book.douban.com/subject/10758624/) 领域经典。
 * [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
