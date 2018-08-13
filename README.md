@@ -21,6 +21,7 @@
   * [v8](#v8)
   * [前端实践指南](#前端实践指南)
   * [Angular](#angular)
+  * [Vue](#vue)
 * [算法](#算法)
 * [计算机基础](#计算机基础)
 * [操作系统理论](#操作系统理论)
@@ -88,6 +89,7 @@
     * [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
     * [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
     * [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
+
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
 * [Angular In Depth](https://blog.angularindepth.com/) 应该是最深入、访问量最大的Angular专栏了。经常对Angular进行源码级别的剖析。
@@ -101,9 +103,13 @@
   * [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
   * [AngularMIX](https://www.youtube.com/channel/UCnUpEUN4V3iJxoUximdr6Nw)
 * [awesome-angular](https://github.com/gdi2290/awesome-angular) 很全面的Angular学习资源列表。缺点是有点杂。建议先看[Angular Connect小节](https://github.com/gdi2290/awesome-angular#angular-connect)精选的会议视频。
-
 * [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016) 这个专栏专门收集最受欢迎的技术文章、公开课，每个月或每一年更新一次。他们还做了React、Node.js、python、machine learning等技术的排行。
 * [RxJS Marbles](http://rxmarbles.com/) 通过交互式动画来学习Rx Observables。
+
+## Vue
+入门直接看官方文档就好，这里只列举用于进阶的资料。
+* [Vue技术内幕](https://github.com/HcySunYang/vue-design) 逐行级别的源码分析，并且会一直跟进Vue的更新。该作者在去年写的一篇文章也推荐阅读：[Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)。
+* [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
 
 # 算法
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
