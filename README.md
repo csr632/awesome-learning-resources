@@ -109,6 +109,7 @@
 ## Vue
 入门直接看官方文档就好，这里只列举用于进阶的资料。
 * [Vue技术内幕](https://github.com/HcySunYang/vue-design) 逐行级别的源码分析，并且会一直跟进Vue的更新。该作者在去年写的一篇文章也推荐阅读：[Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)。
+* [Vue.js 源码分析](https://github.com/answershuto/learnVue)
 * [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
 
 # 算法
