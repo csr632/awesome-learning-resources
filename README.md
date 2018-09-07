@@ -79,6 +79,7 @@
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack学习资料。不过如果可以的话还是直接阅读官方文档吧。
 * [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
 <!--* [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。-->
+* [奇舞周刊](https://weekly.75team.com/) 每周推荐几篇前端精华文章。
 * [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star数量也挺高的。
 * [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
 * [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 经典面试题的完整回答。下次面试被问到这个问题，你能把面试官答到崩溃。[英文原版仓库](https://github.com/alex/what-happens-when)star数量很高。
