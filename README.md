@@ -75,6 +75,7 @@
 * [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) 讲解了V8优化执行速度的几种基本方式，了解它们有助于我们理解前端框架内部的优化、写出更加VM-friendly的代码。以Angular为例，Angular源码利用[Monomorphic](https://github.com/angular/angular/search?q=Monomorphic&unscoped_q=Monomorphic)来优化代码，Angular编译出的JavaScript也是[VM-friendly](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)的。
   > [该专栏](https://blog.sessionstack.com/tagged/tutorial)有更多关于JavaScript原理的文章。
 * [v8-perf](https://github.com/thlorenz/v8-perf) 收集了关于v8的笔记和资源。
+* [v8专题 - 阿里妈妈前端技术周刊](https://segmentfault.com/a/1190000016429026#articleHeader3) 收录了几篇优秀的v8文章（**中文**）。
 
 ## 前端实践指南
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
