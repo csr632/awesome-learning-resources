@@ -70,9 +70,11 @@
 ## v8
 * [How do I get started with V8 development?](https://medium.com/dailyjs/how-do-i-get-started-with-v8-development-17e976ebe4af) 作者大姐姐是V8的开发者，YouTube上有很多她的演讲。这篇文章提供了很多进入V8源码世界的资料。对于V8爱好者，她的博客、[讲座](https://medium.com/fhinkel/conference-talks-2017-3c0ed426406f)都值得关注。
   > [YouTube上有关V8的讲座](https://www.youtube.com/results?search_query=JSConf+v8)
-* [Vyacheslav Egorov](https://mrale.ph/) 介绍了很多V8底层的原理。作者之前是V8开发者，现在似乎跳槽了。就算不打算学编译器，js开发者也应该读一读这两篇文章：[Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)， [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)。
-* [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) 讲解了V8优化执行速度的几种基本方式，了解它们有助于我们写出更加V8 friendly的代码。以Angular为例，Angular源码利用[Monomorphic](https://github.com/angular/angular/search?q=Monomorphic&unscoped_q=Monomorphic)来优化代码，Angular编译出的JavaScript也是[VM-friendly](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)的。
+* [Vyacheslav Egorov](https://mrale.ph/) 介绍了很多V8底层的原理。作者之前是V8开发者，现在已经跳槽了。就算不打算学编译器，js开发者也应该读一读这两篇文章：[Explaining JavaScript VMs in JavaScript - Inline Caches](https://mrale.ph/blog/2012/06/03/explaining-js-vms-in-js-inline-caches.html)， [What's up with monomorphism?](https://mrale.ph/blog/2015/01/11/whats-up-with-monomorphism.html)。
+* [Benedikt Meurer's blog](http://benediktmeurer.de/) Benedikt Meurer是V8的开发者之一。
+* [How JavaScript works: inside the V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) 讲解了V8优化执行速度的几种基本方式，了解它们有助于我们理解前端框架内部的优化、写出更加VM-friendly的代码。以Angular为例，Angular源码利用[Monomorphic](https://github.com/angular/angular/search?q=Monomorphic&unscoped_q=Monomorphic)来优化代码，Angular编译出的JavaScript也是[VM-friendly](https://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)的。
   > [该专栏](https://blog.sessionstack.com/tagged/tutorial)有更多关于JavaScript原理的文章。
+* [v8-perf](https://github.com/thlorenz/v8-perf) 收集了关于v8的笔记和资源。
 
 ## 前端实践指南
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
