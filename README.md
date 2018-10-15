@@ -26,6 +26,7 @@
 * [计算机基础](#计算机基础)
 * [操作系统理论](#操作系统理论)
 * [操作系统实践（Linux运维）](#操作系统实践linux运维)
+* [UNIX编程](#unix编程)
 * [编译原理](#编译原理)
 * [计算机网络](#计算机网络)
 * [数据库](#数据库)
@@ -154,7 +155,15 @@
 * [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
 
+* [Google SRE](https://book.douban.com/subject/26875239/) 这本书早已超出了“操作系统”的范畴了，它讨论整个成产系统。
+
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
+
+# UNIX编程
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
+* [UNIX编程艺术](https://book.douban.com/subject/5387401/)
 
 # 编译原理
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
@@ -185,6 +194,7 @@
 * [代码大全](https://book.douban.com/subject/1477390/)
 * [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
 * [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
+* [程序员修炼之道 从小工到专家](https://book.douban.com/subject/5387402/)
 * [人月神话](https://book.douban.com/subject/1102259/)
 * [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
 
@@ -282,7 +292,7 @@
 * [Regexper](https://regexper.com/) 将正则表达式可视化，与RegExr互补。
 
 ## 清单
-* [What is the single most influential book every programmer should read?](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read) 在StackOverflow上很火的一个问题，里面都是经典书籍。
+* [What is the single most influential book every programmer should read?](http://bestprogrammingbooks.com/updated-100-influential-stackoverflow-programming-books/) [StackOverflow上一个很火的问题](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)的更新版，里面都是经典书籍。
 * [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。
 * [awesome lists](https://github.com/sindresorhus/awesome) 非常全面资源清单，不仅包括学习资源，而且涵盖了工具资源。
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计入门。这是后端系统、架构通识的清单，不局限于任何后端语言。并且提供了帮助记忆的工具[Anki flashcard decks](https://github.com/donnemartin/system-design-primer#anki-flashcards)。
