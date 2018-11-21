@@ -19,7 +19,7 @@
   * [JavaScript开发进阶](#javascript开发进阶)
   * [ES6](#es6)
   * [v8](#v8)
-  * [前端实践指南](#前端实践指南)
+  * [前端杂项](#前端杂项)
   * [Angular](#angular)
   * [Vue](#vue)
 * [算法](#算法)
@@ -78,7 +78,7 @@
 * [v8-perf](https://github.com/thlorenz/v8-perf) 收集了关于v8的笔记和资源。
 * [v8专题 - 阿里妈妈前端技术周刊](https://segmentfault.com/a/1190000016429026#articleHeader3) 收录了几篇优秀的v8文章（**中文**）。
 
-## 前端实践指南
+## 前端杂项
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的JavaScript设计模式书，而且是开源的。它总结了JavaScript在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在Google Chrome做工程管理。
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack学习资料。不过如果可以的话还是直接阅读官方文档吧。
 * [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些JavaScript的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star数量也挺高的。
@@ -95,6 +95,8 @@
     * [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
     * [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
     * [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
+* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) 提供了前端常见面试问题的答案。它只是面试题的集合，而不是系统化的知识总结，因此只适用于准备面试和查漏补缺。
+* [Front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018) 对于前端的基础知识点，提供了很多优质的资源链接。
 
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
@@ -297,7 +299,6 @@
 * [awesome lists](https://github.com/sindresorhus/awesome) 非常全面资源清单，不仅包括学习资源，而且涵盖了工具资源。
 * [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计入门。这是后端系统、架构通识的清单，不局限于任何后端语言。并且提供了帮助记忆的工具[Anki flashcard decks](https://github.com/donnemartin/system-design-primer#anki-flashcards)。
 * [Computer Science Knowledge Study Plan](https://github.com/jwasham/coding-interview-university) **计算机科学**的知识，是底层码农通往软件工程师的阶梯。这个清单详尽列举了**计算机科学**的知识点以及学习资源。
-* [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) 提供了前端常见面试问题的答案。它只是面试题的集合，而不是系统化的知识总结，因此只适用于准备面试和查漏补缺。
 
 ## 公开课
 * [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
