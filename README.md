@@ -124,7 +124,7 @@
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
 
 * [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
-* [Algorithms](https://book.douban.com/subject/19952400/) 也是经典教材，评价也很高。据反映，它的涵盖面没有Introduction to Algorithms广和深，但是工程中的常见的算法都能找到，讲解更加易懂。
+* [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而Introduction to Algorithms是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
 * [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
 * [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
 
