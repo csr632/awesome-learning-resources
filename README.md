@@ -88,6 +88,7 @@
 * [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
 * [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 经典面试题的完整回答。下次面试被问到这个问题，你能把面试官答到崩溃。[英文原版仓库](https://github.com/alex/what-happens-when)star数量很高。
 * [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 浏览器工作原理。弄懂它是理解前端性能优化的基础。相关中文文章：[中文翻译](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)、[浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)、[浅析前端页面渲染机制](http://blog.codingplayboy.com/2017/03/29/webpage_render/)。
+* [Inside look at modern web browser | Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)。[中文解析](https://zhuanlan.zhihu.com/p/47407398)。
 * 前端性能优化清单：
     * [PageSpeed Insights Rules - Google](https://developers.google.com/speed/docs/insights/rules)
     * [Performance - Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
