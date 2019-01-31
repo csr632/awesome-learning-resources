@@ -158,7 +158,7 @@
 * [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
 
-* [Google SRE](https://book.douban.com/subject/26875239/) 这本书早已超出了“操作系统”的范畴了，它讨论整个成产系统。
+* [Google SRE](https://book.douban.com/subject/26875239/) 来自Google的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
 
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
 
