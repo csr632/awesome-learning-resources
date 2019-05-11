@@ -184,6 +184,7 @@
 # 数据库
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 严格来说这本书讲的不是数据库，而是设计数据依赖型应用（data-intensive applications，比如通过网络传输、存储、处理数据的应用）的原则和权衡，它能加深你对数据存储、处理系统的理解，让你更好地选择不同的数据库产品、设计自己的应用架构。这本书在豆瓣和[美国亚马逊](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)上都有很高的评价。
   * [DDIA中文翻译](https://github.com/Vonng/ddia)可作为中文参考。
+* [高性能MySQL](https://book.douban.com/subject/23008813/) 最具代表性的MySQL进阶书籍，没有之一。对于要深入学习MySQL、对其进行调优的同学来说，这本书是必读的。
 
 # 工程化
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
