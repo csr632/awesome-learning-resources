@@ -59,8 +59,8 @@
 * [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去MDN或《JavaScript高级程序设计》找到相同的知识点来阅读。ES6的内容被专门收集到另一本书ECMAScript 6 入门。
 * [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 详细讲解了Prototype、Execution context、lexical environment、Closure等高级概念。内容非常新，基于ES6。
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分js开发者应该都听说过，开源神书，进阶必读。
-* [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
-  > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)。将函数式编程思想应用在JavaScript开发中。虽然JavaScript很难做到“最纯正”的函数式编程，但是本着实用主义的心态，学习多一种编程范式，对于开发者来说是十分有益的，更何况很多前端框架都借鉴了函数式编程思想。
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)。同上一本，这两本书应该是JavaScript函数式编程书里的首选了。
 * [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch) JavaScript视频推荐列表，Star数量很多。不过内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) JavaScript技术会议。同样内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。可以[按照热度排序](https://www.youtube.com/user/jsconfeu/videos?view=0&flow=grid&sort=p)。
 
@@ -98,6 +98,8 @@
     * [CSS Animation性能优化](https://www.w3cplus.com/animation/animation-performance.html)
 * [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) 提供了前端常见面试问题的答案。它只是面试题的集合，而不是系统化的知识总结，因此只适用于准备面试和查漏补缺。
 * [Front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018) 对于前端的基础知识点，提供了很多优质的资源链接。
+* [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
+  > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
 
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
@@ -173,7 +175,10 @@
 
 * [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
   这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
-* [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。
+* [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。[习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)。
+* [Parsing Techniques](https://book.douban.com/subject/4291903/)。编译器前端。
+* [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
+* [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
 
 # 计算机网络
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
