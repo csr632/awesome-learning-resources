@@ -55,7 +55,7 @@
 
 ## JavaScript开发进阶
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) 相信很多js开发者都看过这个作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客。这本书具有完整的ECMAScript知识体系，**它专注于[ECMAScript这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。ES6的内容被专门收集到另一本书Exploring ES6。
-* [JavaScript高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和Web API。第三版有点老了，只涵盖ES5，不过依旧是经典，2018年9月会出第四版。
+* [JavaScript高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和Web API。第三版有点老了，只涵盖ES5，不过依旧是经典。[2019年6月会出第四版](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-4th-Edition.productCd-1119366445.html)。
 * [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去MDN或《JavaScript高级程序设计》找到相同的知识点来阅读。ES6的内容被专门收集到另一本书ECMAScript 6 入门。
 * [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 详细讲解了Prototype、Execution context、lexical environment、Closure等高级概念。内容非常新，基于ES6。
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分js开发者应该都听说过，开源神书，进阶必读。
@@ -160,7 +160,7 @@
 * [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
 
-* [Google SRE](https://book.douban.com/subject/26875239/) 这本书早已超出了“操作系统”的范畴了，它讨论整个成产系统。
+* [Google SRE](https://book.douban.com/subject/26875239/) 来自Google的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
 
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
 
@@ -189,6 +189,7 @@
 # 数据库
 * [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 严格来说这本书讲的不是数据库，而是设计数据依赖型应用（data-intensive applications，比如通过网络传输、存储、处理数据的应用）的原则和权衡，它能加深你对数据存储、处理系统的理解，让你更好地选择不同的数据库产品、设计自己的应用架构。这本书在豆瓣和[美国亚马逊](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)上都有很高的评价。
   * [DDIA中文翻译](https://github.com/Vonng/ddia)可作为中文参考。
+* [高性能MySQL](https://book.douban.com/subject/23008813/) 最具代表性的MySQL进阶书籍，没有之一。对于要深入学习MySQL、对其进行调优的同学来说，这本书是必读的。
 
 # 工程化
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
