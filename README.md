@@ -15,6 +15,21 @@
 <!--ts-->
 * [最优质的学习资料](#最优质的学习资料)
 * [目录](#目录)
+* [算法](#算法)
+* [计算机基础](#计算机基础)
+* [编译原理](#编译原理)
+* [计算机网络](#计算机网络)
+* [数据库](#数据库)
+* [操作系统理论](#操作系统理论)
+* [操作系统实践（Linux运维）](#操作系统实践linux运维)
+* [UNIX编程](#unix编程)
+* [软件设计和编程思想](#软件设计和编程思想)
+* [工程化](#工程化)
+  * [GIT](#git)
+  * [软件工程](#软件工程)
+* [程序员的自我修养](#程序员的自我修养)
+* [C/C++](#cc)
+* [Python](#python)
 * [前端](#前端)
   * [JavaScript开发进阶](#javascript开发进阶)
   * [ES6](#es6)
@@ -22,21 +37,6 @@
   * [前端杂项](#前端杂项)
   * [Angular](#angular)
   * [Vue](#vue)
-* [算法](#算法)
-* [计算机基础](#计算机基础)
-* [操作系统理论](#操作系统理论)
-* [操作系统实践（Linux运维）](#操作系统实践linux运维)
-* [UNIX编程](#unix编程)
-* [编译原理](#编译原理)
-* [计算机网络](#计算机网络)
-* [数据库](#数据库)
-* [工程化](#工程化)
-  * [GIT](#git)
-  * [软件工程](#软件工程)
-* [程序员的自我修养](#程序员的自我修养)
-* [软件设计和编程思想](#软件设计和编程思想)
-* [C/C++](#cc)
-* [Python](#python)
 * [机器学习](#机器学习)
   * [TensorFlow](#tensorflow)
   * [PyTorch](#pytorch)
@@ -50,6 +50,122 @@
   * [公开课](#公开课)
 
 <!--te-->
+
+# 算法
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
+* [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而Introduction to Algorithms是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
+* [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
+* [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合算法学习（刷题）的入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
+* [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
+
+# 计算机基础
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。 [勘误表](http://yiligong.org/csapp3e/)
+* [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，可以在豆瓣和[知乎](https://www.zhihu.com/question/50408698)查看相关评价。
+  * [官方HTML版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)
+  * [SICP公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有SICP课程的中英文资源。
+  * [伯克利cs61a课程](https://cs61a.org/)用**Python**来教SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教SICP，作为cs61a的教科书使用。
+* [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
+* [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
+* 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
+  * [伯克利cs61c课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
+  > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
+
+# 编译原理
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
+  这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
+* [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。[习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)。
+* [Parsing Techniques](https://book.douban.com/subject/4291903/)。编译器前端。
+* [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
+* [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
+
+# 计算机网络
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [计算机网络 自顶向下方法](https://book.douban.com/subject/26176870/) 经典教材，计网入门推荐基本都是这个。官网有[补充资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)。
+* [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/) 深入讲解TCP/IP的内容。不适合入门。如果是相关专业或者岗位的话，需要通过这套书籍来进阶。
+
+# 数据库
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 严格来说这本书讲的不是数据库，而是设计数据依赖型应用（data-intensive applications，比如通过网络传输、存储、处理数据的应用）的原则和权衡，它能加深你对数据存储、处理系统的理解，让你更好地选择不同的数据库产品、设计自己的应用架构。这本书在豆瓣和[美国亚马逊](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)上都有很高的评价。
+  * [DDIA中文翻译](https://github.com/Vonng/ddia)可作为中文参考。
+* [高性能MySQL](https://book.douban.com/subject/23008813/) 最具代表性的MySQL进阶书籍，没有之一。对于要深入学习MySQL、对其进行调优的同学来说，这本书是必读的。
+
+# 操作系统理论
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。
+* [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
+> 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
+* [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT的操作系统课程，经常被推荐。其中的Xv6项目可以让学习者动手实践，非常难得。
+
+# 操作系统实践（Linux运维）
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [The Linux Command Line(TLCL)](https://book.douban.com/subject/6806862/)，[官网可下载PDF](http://linuxcommand.org/tlcl.php)，[中译本](http://billie66.github.io/TLCL/book/) 生动清晰的入门小册，教你通过命令行真正地掌控计算机。非常适合Linux入门。在知乎和豆瓣的评价都很高。
+* [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
+
+* [Google SRE](https://book.douban.com/subject/26875239/) 来自Google的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
+
+* [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
+
+# UNIX编程
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
+* [UNIX编程艺术](https://book.douban.com/subject/5387401/)
+
+# 软件设计和编程思想
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
+* [冒号课堂 编程范式与OOP思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。因为种种原因（书名、读者对本土技术书籍的刻板印象），它的纸质版已经[绝版了](https://www.zhihu.com/question/23636938/answer/29238479)，不过在当当和亚马逊都有电子书卖。
+* [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
+* [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
+
+# 工程化
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+## GIT
+* [Pro Git](https://git-scm.com/book/en/v2) Git官网推荐的书。也可以边用边查[Reference](https://git-scm.com/docs)。
+* [图解Git](http://marklodato.github.io/visual-git-guide/index-en.html) 用图片讲解了Git的基本操作，适合初学者。
+* [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 比较靠谱的中文教程。
+
+## 软件工程
+* [代码大全](https://book.douban.com/subject/1477390/)
+* [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
+* [程序员修炼之道 从小工到专家](https://book.douban.com/subject/5387402/)
+* [人月神话](https://book.douban.com/subject/1102259/)
+* [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
+
+# 程序员的自我修养
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
+* [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
+* [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
+
+# C/C++
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [C程序设计语言](https://book.douban.com/subject/1882483/)
+* [C++ Primer](https://book.douban.com/subject/25708312/)
+* [Effective C++](https://book.douban.com/subject/1842426/)
+* STL: [Effective STL](https://book.douban.com/subject/24534868/) + [STL源码剖析](https://book.douban.com/subject/1110934/)
+
+更多的资料直接看下面的链接或者上知乎搜索。
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
+# Python
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/) google搜索Python guide，前四位都是它或它的中文翻译。GitHub仓库的Star数量很多。定位是"Python best practices guidebook"。
+* [Fluent Python](https://book.douban.com/subject/26278021/) 豆瓣评分最高的Python书籍。比较适合进阶。
 
 # 前端
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
@@ -123,120 +239,6 @@
 * [Vue技术内幕](https://github.com/HcySunYang/vue-design) 逐行级别的源码分析，并且会一直跟进Vue的更新。该作者在去年写的一篇文章也推荐阅读：[Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)。
 * [Vue.js 源码分析](https://github.com/answershuto/learnVue)
 * [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
-
-# 算法
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
-* [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而Introduction to Algorithms是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
-* [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
-* [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合算法学习（刷题）的入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
-* [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
-
-# 计算机基础
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。 [勘误表](http://yiligong.org/csapp3e/)
-* [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，可以在豆瓣和[知乎](https://www.zhihu.com/question/50408698)查看相关评价。
-  * [官方HTML版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)
-  * [SICP公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有SICP课程的中英文资源。
-  * [伯克利cs61a课程](https://cs61a.org/)用**Python**来教SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教SICP，作为cs61a的教科书使用。
-* [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
-* [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
-* 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
-  * [伯克利cs61c课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
-  > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
-
-# 操作系统理论
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。
-* [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
-> 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
-* [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT的操作系统课程，经常被推荐。其中的Xv6项目可以让学习者动手实践，非常难得。
-
-# 操作系统实践（Linux运维）
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [The Linux Command Line(TLCL)](https://book.douban.com/subject/6806862/)，[官网可下载PDF](http://linuxcommand.org/tlcl.php)，[中译本](http://billie66.github.io/TLCL/book/) 生动清晰的入门小册，教你通过命令行真正地掌控计算机。非常适合Linux入门。在知乎和豆瓣的评价都很高。
-* [鸟哥的Linux私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
-* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start数量惊人。。。
-
-* [Google SRE](https://book.douban.com/subject/26875239/) 来自Google的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
-
-* [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门docker的不二之选。不过入门以后最好看官方文档，更加详细。
-
-# UNIX编程
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
-* [UNIX编程艺术](https://book.douban.com/subject/5387401/)
-
-# 编译原理
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
-  这个课程曾经有Coursera的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载Coursera版本的视频。
-* [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。[习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)。
-* [Parsing Techniques](https://book.douban.com/subject/4291903/)。编译器前端。
-* [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
-* [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
-
-# 计算机网络
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [计算机网络 自顶向下方法](https://book.douban.com/subject/26176870/) 经典教材，计网入门推荐基本都是这个。官网有[补充资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/216/55463/14198700.cw/index.html)。
-* [TCP/IP详解 卷1：协议](https://book.douban.com/subject/1088054/) 深入讲解TCP/IP的内容。不适合入门。如果是相关专业或者岗位的话，需要通过这套书籍来进阶。
-
-# 数据库
-* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 严格来说这本书讲的不是数据库，而是设计数据依赖型应用（data-intensive applications，比如通过网络传输、存储、处理数据的应用）的原则和权衡，它能加深你对数据存储、处理系统的理解，让你更好地选择不同的数据库产品、设计自己的应用架构。这本书在豆瓣和[美国亚马逊](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)上都有很高的评价。
-  * [DDIA中文翻译](https://github.com/Vonng/ddia)可作为中文参考。
-* [高性能MySQL](https://book.douban.com/subject/23008813/) 最具代表性的MySQL进阶书籍，没有之一。对于要深入学习MySQL、对其进行调优的同学来说，这本书是必读的。
-
-# 工程化
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-## GIT
-* [Pro Git](https://git-scm.com/book/en/v2) Git官网推荐的书。也可以边用边查[Reference](https://git-scm.com/docs)。
-* [图解Git](http://marklodato.github.io/visual-git-guide/index-en.html) 用图片讲解了Git的基本操作，适合初学者。
-* [廖雪峰的Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) 比较靠谱的中文教程。
-
-## 软件工程
-* [代码大全](https://book.douban.com/subject/1477390/)
-* [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
-* [程序员修炼之道 从小工到专家](https://book.douban.com/subject/5387402/)
-* [人月神话](https://book.douban.com/subject/1102259/)
-* [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
-
-# 程序员的自我修养
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
-* [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
-* [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
-
-# 软件设计和编程思想
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
-* [冒号课堂 编程范式与OOP思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。因为种种原因（书名、读者对本土技术书籍的刻板印象），它的纸质版已经[绝版了](https://www.zhihu.com/question/23636938/answer/29238479)，不过在当当和亚马逊都有电子书卖。
-* [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
-* [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
-
-# C/C++
-<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
-
-* [C程序设计语言](https://book.douban.com/subject/1882483/)
-* [C++ Primer](https://book.douban.com/subject/25708312/)
-* [Effective C++](https://book.douban.com/subject/1842426/)
-* STL: [Effective STL](https://book.douban.com/subject/24534868/) + [STL源码剖析](https://book.douban.com/subject/1110934/)
-
-更多的资料直接看下面的链接或者上知乎搜索。
-* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-
-# Python
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/) google搜索Python guide，前四位都是它或它的中文翻译。GitHub仓库的Star数量很多。定位是"Python best practices guidebook"。
-* [Fluent Python](https://book.douban.com/subject/26278021/) 豆瓣评分最高的Python书籍。比较适合进阶。
 
 # 机器学习
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
