@@ -34,6 +34,7 @@
   * [GIT](#git)
   * [软件工程](#软件工程)
 * [程序员的自我修养](#程序员的自我修养)
+* [软件设计和编程思想](#软件设计和编程思想)
 * [C/C++](#cc)
 * [Python](#python)
 * [机器学习](#机器学习)
@@ -104,7 +105,7 @@
 ## Angular
 官方文档就不需要提了，这里只列举用于进阶的资料。
 * [Angular In Depth](https://blog.angularindepth.com/) 应该是最深入、访问量最大的Angular专栏了。经常对Angular进行源码级别的剖析。
-* [Trotyl Yu](https://www.zhihu.com/people/trotyl/answers) 知乎里最活跃的Angular答主之一（还有[雪狼](https://www.zhihu.com/people/alpha-gde/answers)和[VTHINKXIE](https://www.zhihu.com/people/vthinkxie/posts)），它的专栏[Angular News](https://zhuanlan.zhihu.com/angular-news) [禅与摩托车轮子维修艺术](https://zhuanlan.zhihu.com/trotyl)都是Angular干货。
+* [Trotyl Yu](https://www.zhihu.com/people/trotyl/answers) 知乎里最活跃的Angular答主之一（还有[雪狼](https://www.zhihu.com/people/alpha-gde/answers)和[VTHINKXIE](https://www.zhihu.com/people/vthinkxie/posts)），他的专栏[Angular News](https://zhuanlan.zhihu.com/angular-news) [禅与摩托车轮子维修艺术](https://zhuanlan.zhihu.com/trotyl)都是Angular干货。
   > 大佬们都在[为什么前端讨论的都是各种react，vue源码解析，渲染机制等，没人讨论angular？ - 知乎](https://www.zhihu.com/question/274940977)回答了。
 * [Angular资料获取不完全指南](https://zhuanlan.zhihu.com/p/36385830) 列举了一些有名的博客，经常查找Angular资料的同学应该很熟悉这些博客了。
 * [Angular Articles](https://zhuanlan.zhihu.com/p/32818978) 作者同上，Angular文章推荐。
@@ -129,6 +130,7 @@
 * [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
 * [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而Introduction to Algorithms是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
 * [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于Introduction to Algorithms和Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
+* [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合算法学习（刷题）的入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
 * [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks有很多常用数据结构、算法的文章。这篇文章以及geeksforgeeks适合短期复习的同学。
 
 # 计算机基础
@@ -201,7 +203,6 @@
 
 ## 软件工程
 * [代码大全](https://book.douban.com/subject/1477390/)
-* [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
 * [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
 * [程序员修炼之道 从小工到专家](https://book.douban.com/subject/5387402/)
 * [人月神话](https://book.douban.com/subject/1102259/)
@@ -213,6 +214,14 @@
 * [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
 * [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
 * [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
+
+# 软件设计和编程思想
+<font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
+
+* [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
+* [冒号课堂 编程范式与OOP思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。因为种种原因（书名、读者对本土技术书籍的刻板印象），它的纸质版已经[绝版了](https://www.zhihu.com/question/23636938/answer/29238479)，不过在当当和亚马逊都有电子书卖。
+* [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
+* [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
 
 # C/C++
 <font size="2" style="margin-left:10px;">[回到目录↑](#目录)</font>
