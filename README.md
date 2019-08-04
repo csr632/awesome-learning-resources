@@ -320,3 +320,4 @@
 
 ## 公开课
 * [MIT公开课排行榜](https://ocw.mit.edu/courses/most-visited-courses/) 选择需要的来学习吧。
+* [Stanford Engineering Everywhere](https://see.stanford.edu/Course) 斯坦福公开课项目。
