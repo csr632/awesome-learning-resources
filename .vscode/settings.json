@@ -1,0 +1,7 @@
+{
+  "markdownlint.config": {
+    "default": true,
+    "MD025": false,
+    "MD033": false
+  }
+}
