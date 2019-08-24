@@ -241,6 +241,7 @@
 - [Front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018) 对于前端的基础知识点，提供了很多优质的资源链接。
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel 以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
   > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
+- [freeCodeCamp](https://learn.freecodecamp.org/) 开源、非盈利的在线学习网站。它的主要内容是前端基础知识。这个网站的最大特点是在线评测，这种即时反馈对于学习者来说是非常有帮助的。该仓库的 Star 数量在 github 上[排名第一](https://gitstar-ranking.com/repositories)。
 
 ## Angular
 
@@ -359,6 +360,7 @@
 - [awesome lists](https://github.com/sindresorhus/awesome) 非常全面资源清单，不仅包括学习资源，而且涵盖了工具资源。
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计入门。这是后端系统、架构通识的清单，不局限于任何后端语言。并且提供了帮助记忆的工具[Anki flashcard decks](https://github.com/donnemartin/system-design-primer#anki-flashcards)。
 - [Computer Science Knowledge Study Plan](https://github.com/jwasham/coding-interview-university) **计算机科学**的知识，是底层码农通往软件工程师的阶梯。这个清单详尽列举了**计算机科学**的知识点以及学习资源。
+- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java。作者应该是站在 Java 后端开发的角度来梳理的。
 
 ## 公开课
 
