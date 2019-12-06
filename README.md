@@ -61,7 +61,9 @@
 - [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
 - [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于 Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而 Introduction to Algorithms 是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
 - [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于 Introduction to Algorithms 和 Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
+- [编程珠玑](https://book.douban.com/subject/3227098/)。相对较薄的一本书。本书并没有系统地归纳各种算法，而是通过一些精心设计的有趣而又颇具指导意义的程序实例，引导读者理解问题、选择和实现算法。
 - [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合算法学习（刷题）的入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
+- [编程之美](https://book.douban.com/subject/3004255/) 面试的经典问题，引发读者思考，领略算法的乐趣。
 - [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks 有很多常用数据结构、算法的文章。这篇文章以及 geeksforgeeks 适合短期复习的同学。
 
 # 计算机基础
@@ -143,6 +145,7 @@
 - [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。因为种种原因（书名、读者对本土技术书籍的刻板印象），它的纸质版已经[绝版了](https://www.zhihu.com/question/23636938/answer/29238479)，不过在当当和亚马逊都有电子书卖。
 - [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
 - [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
+- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
 
 # 工程化
 
@@ -161,6 +164,7 @@
 - [程序员修炼之道 从小工到专家](https://book.douban.com/subject/5387402/)
 - [人月神话](https://book.douban.com/subject/1102259/)
 - [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
+- [代码整洁之道](https://book.douban.com/subject/4199741/)
 
 # 程序员的自我修养
 
