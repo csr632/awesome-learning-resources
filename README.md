@@ -20,13 +20,13 @@
 - [目录](#目录)
 - [算法](#算法)
 - [计算机基础](#计算机基础)
+- [软件设计思想和编程语言](#软件设计思想和编程语言)
 - [编译原理](#编译原理)
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
 - [操作系统理论](#操作系统理论)
 - [操作系统实践（Linux 运维）](#操作系统实践linux运维)
 - [UNIX 编程](#unix编程)
-- [软件设计思想和编程语言](#软件设计思想和编程语言)
 - [工程化](#工程化)
   - [GIT](#git)
   - [软件工程](#软件工程)
@@ -48,7 +48,6 @@
   - [线性代数](#线性代数)
   - [概率与统计](#概率与统计)
 - [杂项](#杂项)
-  - [正则表达式](#正则表达式)
   - [清单](#清单)
   - [公开课](#公开课)
 
@@ -76,6 +75,29 @@
 - 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
   - [伯克利 cs61c 课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
     > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
+
+# 软件设计思想和编程语言
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解程序的本质。
+  - [官方 HTML 版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
+  - [SICP 公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有 SICP 课程的中英文资源。
+  - 语言&编辑器：做练习的时候推荐使用[Racket](https://racket-lang.org/)并安装[SICP 扩展包](https://docs.racket-lang.org/sicp-manual/)。Racket 的 IDE 使用体验比 MIT-Scheme 好很多，并且 Racket 本身也是一门非常年轻优秀的 Scheme 方言。
+  - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教 SICP，作为 cs61a 的教科书使用。
+- [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。另一方面，它帮助你增强对于程序计算模型的理解。定位和 SICP 类似，但它上手比 SICP 要容易。这本书使用函数式编程语言 Racket 来讲解（一门非常年轻优秀的编程语言，by the way），但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官方免费阅读](https://www.htdp.org/)。
+- [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
+- [Programming Language: Application and Interpretation(PLAI)](https://book.douban.com/subject/11628134/) Scheme 三剑客之一，助你看透编程语言的本质。
+- [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略变成背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
+- [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
+
+下面的资源可能更适合拥有一定编程经验以后再阅读，结合自己的编程经验才能有深刻的理解。
+
+- [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/) 设计模式，无人不知吧。
+- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。相对容易理解。
+- [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
+- [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
+- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
 
 # 编译原理
 
@@ -131,26 +153,6 @@
 - [UNIX 环境高级编程](https://book.douban.com/subject/1788421/)
 - [UNIX 编程艺术](https://book.douban.com/subject/5387401/)
 
-# 软件设计思想和编程语言
-
-<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
-
-- [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解程序的本质。
-  - [官方 HTML 版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
-  - [SICP 公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有 SICP 课程的中英文资源。
-  - 语言&编辑器：做练习的时候推荐使用[Racket](https://racket-lang.org/)并安装[SICP 扩展包](https://docs.racket-lang.org/sicp-manual/)。Racket 的 IDE 使用体验比 MIT-Scheme 好很多，并且 Racket 本身也是一门非常年轻优秀的 Scheme 方言。
-  - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教 SICP，作为 cs61a 的教科书使用。
-- [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。另一方面，它帮助你增强对于程序计算模型的理解。定位和 SICP 类似，但它上手比 SICP 要容易。这本书使用函数式编程语言 Racket 来讲解（一门非常年轻优秀的编程语言，by the way），但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官方免费阅读](https://www.htdp.org/)。
-- [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
-- [Programming Language: Application and Interpretation(PLAI)](https://book.douban.com/subject/11628134/) Scheme 三剑客之一，助你看透编程语言的本质。
-- [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略变成背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
-- [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
-- [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/)
-- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。因为种种原因（书名、读者对本土技术书籍的刻板印象），它的纸质版已经[绝版了](https://www.zhihu.com/question/23636938/answer/29238479)，不过在当当和亚马逊都有电子书卖。
-- [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
-- [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
-- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
-
 # 工程化
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
@@ -176,7 +178,6 @@
 
 - [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
 - [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
-- [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
 # C/C++
 
@@ -358,10 +359,8 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-## 正则表达式
-
 - [RegExr](https://regexr.com/) 学习、测试正则表达式的神器。
-- [Regexper](https://regexper.com/) 将正则表达式可视化，与 RegExr 互补。
+- [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
 ## 清单
 
