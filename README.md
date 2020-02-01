@@ -246,7 +246,7 @@
   - [Performance - Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
   - [Best Practices for Speeding Up Your Web Site - yahoo](https://developer.yahoo.com/performance/rules.html)
   - [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
-  - [2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
+  - [2020 前端性能优化清单](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
   - [CSS Animation 性能优化](https://www.w3cplus.com/animation/animation-performance.html)
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) 提供了前端常见面试问题的答案。它只是面试题的集合，而不是系统化的知识总结，因此只适用于准备面试和查漏补缺。
 - [Front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018) 对于前端的基础知识点，提供了很多优质的资源链接。
