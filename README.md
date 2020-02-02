@@ -203,20 +203,15 @@
 
 ## JavaScript 开发进阶
 
-- [Speaking JavaScript](http://speakingjs.com/es5/index.html) 相信很多 js 开发者都看过这个作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客。这本书具有完整的 ECMAScript 知识体系，**它专注于[ECMAScript 这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。ES6 的内容被专门收集到另一本书 Exploring ES6。
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) **它专注于[ECMAScript 这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。它用非常精炼的语言构建了现代 JavaScript 的知识体系（涵盖到 ES2019）。作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客也值得关注。
 - [JavaScript 高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和 Web API。第三版有点老了，只涵盖 ES5，不过依旧是经典。[2019 年 6 月会出第四版](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-4th-Edition.productCd-1119366445.html)。
-- [JavaScript 标准参考教程 - 阮一峰](https://javascript.ruanyifeng.com/) 兼顾了语言和 Web API，内容很新，可以看作是高程的持续更新版。前端面试会问的**基础知识点**基本都可以在这里找到。不过有一些讲解得不是非常详尽，追求完美的读者，可以在阅读的过程中，去 MDN 或《JavaScript 高级程序设计》找到相同的知识点来阅读。ES6 的内容被专门收集到另一本书 ECMAScript 6 入门。
-- [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 详细讲解了 Prototype、Execution context、lexical environment、Closure 等高级概念。内容非常新，基于 ES6。
+- [The Modern JavaScript Tutorial](https://javascript.info/) 现代 JavaScript 开发教程。包含了 ECMAScript 语言和重要的 Web API。个人认为它的主要价值在于对重要 Web API 的分类整理与阐释。
+- [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 从语言标准的角度讲解了 Prototype、Execution context、lexical environment、Closure 等高级概念，适合编程语言理论爱好者。内容基于 ES6。
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分 js 开发者应该都听说过，开源神书，进阶必读。
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)。将函数式编程思想应用在 JavaScript 开发中。虽然 JavaScript 很难做到“最纯正”的函数式编程，但是本着实用主义的心态，学习多一种编程范式，对于开发者来说是十分有益的，更何况很多前端框架都借鉴了函数式编程思想。
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)。同上一本，这两本书应该是 JavaScript 函数式编程书里的首选了。
 - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch) JavaScript 视频推荐列表，Star 数量很多。不过内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。
 - [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA) JavaScript 技术会议。同样内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。可以[按照热度排序](https://www.youtube.com/user/jsconfeu/videos?view=0&flow=grid&sort=p)。
-
-## ES6
-
-- [Exploring ES6](http://exploringjs.com/es6.html) 同样是[Dr. Axel Rauschmayer](http://dr-axel.de/)的书，可以看作是 Speaking JavaScript 的 ES6 增量更新包。
-- [ECMAScript 6 入门 - 阮一峰](http://es6.ruanyifeng.com/) 通过例子来学习 ES6，可以看作是 JavaScript 标准参考教程的 ES6 增量更新包。中文看起来比较亲切。
 
 ## v8
 
