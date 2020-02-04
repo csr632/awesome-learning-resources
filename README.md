@@ -85,7 +85,6 @@
   - [SICP 公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有 SICP 课程的中英文资源。
   - 语言&编辑器：做练习的时候推荐使用[Racket](https://racket-lang.org/)并安装[SICP 扩展包](https://docs.racket-lang.org/sicp-manual/)。Racket 的 IDE 使用体验比 MIT-Scheme 好很多，并且 Racket 本身也是一门非常年轻优秀的 Scheme 方言。
   - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教 SICP，作为 cs61a 的教科书使用。
-- [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。另一方面，它帮助你增强对于程序计算模型的理解。定位和 SICP 类似，但它上手比 SICP 要容易。这本书使用函数式编程语言 Racket 来讲解（一门非常年轻优秀的编程语言，by the way），但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官方免费阅读](https://www.htdp.org/)。
 - [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Programming Language: Application and Interpretation(PLAI)](https://book.douban.com/subject/11628134/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略变成背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
