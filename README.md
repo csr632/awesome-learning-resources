@@ -247,6 +247,7 @@
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel 以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
   > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
 - [freeCodeCamp](https://learn.freecodecamp.org/) 开源、非盈利的在线学习网站。它的主要内容是前端基础知识。这个网站的最大特点是在线评测，这种即时反馈对于学习者来说是非常有帮助的。该仓库的 Star 数量在 github 上[排名第一](https://gitstar-ranking.com/repositories)。
+- [Web安全](https://web.stanford.edu/class/cs253/) 斯坦福大学的公开课。内容非常贴近实际的Web应用。
 
 ## Angular
 
