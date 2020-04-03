@@ -176,7 +176,10 @@
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
 - [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
+- [哥德尔、艾舍尔、巴赫: 集异璧之大成](https://book.douban.com/subject/1291204/) 视角跨越多个领域的奇书。
+- [人类简史](https://book.douban.com/subject/25985021/)
 - [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
+- [经济学原理](https://book.douban.com/subject/1028842/) 权威的经济学科普书籍。不要成为一个只会埋头干活的码农。
 
 # C/C++
 
@@ -200,7 +203,7 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-## JavaScript开发进阶
+## JavaScript 开发进阶
 
 - [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) **它专注于[ECMAScript 这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。它用非常精炼的语言构建了现代 JavaScript 的知识体系（涵盖到 ES2019）。作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客也值得关注。
 - [JavaScript 高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和 Web API。第三版有点老了，只涵盖 ES5，不过依旧是经典。[2019 年 6 月会出第四版](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-4th-Edition.productCd-1119366445.html)。
@@ -247,7 +250,7 @@
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel 以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
   > [原作者](https://github.com/jamiebuilds)、[翻译者](https://github.com/starkwang)、[推荐者](https://www.zhihu.com/question/49043143/answer/113970082)都是大牛。。。
 - [freeCodeCamp](https://learn.freecodecamp.org/) 开源、非盈利的在线学习网站。它的主要内容是前端基础知识。这个网站的最大特点是在线评测，这种即时反馈对于学习者来说是非常有帮助的。该仓库的 Star 数量在 github 上[排名第一](https://gitstar-ranking.com/repositories)。
-- [Web安全](https://web.stanford.edu/class/cs253/) 斯坦福大学的公开课。内容非常贴近实际的Web应用。
+- [Web 安全](https://web.stanford.edu/class/cs253/) 斯坦福大学的公开课。内容非常贴近实际的 Web 应用。
 
 ## Angular
 
