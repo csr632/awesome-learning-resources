@@ -367,6 +367,7 @@
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
 - [RegExr](https://regexr.com/) 学习、测试正则表达式的神器。
+- [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io/) MIT 课程，讲解命令行、vim、git 等**编程工具与编程常识**，非常实用。
 - [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
 ## 清单
