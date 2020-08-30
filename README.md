@@ -69,7 +69,7 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，要被捧上天了（非贬义）。 [勘误表](http://yiligong.org/csapp3e/)
+- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书。 [CMU公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
 - [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
 - [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
 - 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
