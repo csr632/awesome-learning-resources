@@ -14,19 +14,20 @@
 
 - [最优质的学习资料](#最优质的学习资料)
 - [目录](#目录)
-- [算法](#算法)
-- [计算机体系结构](#计算机体系结构)
 - [程序设计思想和编程语言](#程序设计思想和编程语言)
-- [编译原理](#编译原理)
+- [计算机体系结构](#计算机体系结构)
+- [算法与数据结构](#算法与数据结构)
+- [操作系统理论](#操作系统理论)
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
 - [分布式系统](#分布式系统)
-- [操作系统理论](#操作系统理论)
+- [编译原理](#编译原理)
 - [操作系统实践（Linux 运维）](#操作系统实践linux运维)
 - [UNIX 编程](#unix编程)
 - [工程化](#工程化)
   - [GIT](#git)
   - [软件工程](#软件工程)
+  - [大型软件的设计思想](#大型软件的设计思想)
 - [程序员的自我修养](#程序员的自我修养)
 - [C/C++](#cc)
 - [Python](#python)
@@ -44,32 +45,11 @@
 
 <!--te-->
 
-# 算法
-
-<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
-
-- [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。不过对于入门者，它的难度和容量可能有点大。
-- [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于 Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而 Introduction to Algorithms 是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
-- [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于 Introduction to Algorithms 和 Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
-- [编程珠玑](https://book.douban.com/subject/3227098/)。相对较薄的一本书。本书并没有系统地归纳各种算法，而是通过一些精心设计的有趣而又颇具指导意义的程序实例，引导读者理解问题、选择和实现算法。
-- [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合算法学习（刷题）的入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
-- [编程之美](https://book.douban.com/subject/3004255/) 面试的经典问题，引发读者思考，领略算法的乐趣。
-- [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks 有很多常用数据结构、算法的文章。这篇文章以及 geeksforgeeks 适合短期复习的同学。
-
-# 计算机体系结构
-
-<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
-
-- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，无需介绍。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
-- [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
-- [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
-- [计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
-  - [伯克利 cs61c 课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
-    > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
-
 # 程序设计思想和编程语言
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+建立对计算机和编程的基本认识。
 
 - [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解程序的本质。务必完成书中的练习。
   - [官方 HTML 版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
@@ -84,24 +64,39 @@
 - [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略编程背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
 - [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
 
-下面的资源可能更适合拥有一定编程经验以后再阅读，结合自己的编程经验才能有深刻的理解。
-
-- [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/) 设计模式，无人不知吧。
-- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和程序设计思想的阐述非常深刻。相对容易理解。
-- [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
-- [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
-- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
-
-# 编译原理
+# 计算机体系结构
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
-  这个课程曾经有 Coursera 的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载 Coursera 版本的视频。
-- [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。[习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)。
-- [Parsing Techniques](https://book.douban.com/subject/4291903/)。编译器前端。
-- [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
-- [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
+计算机底层运行机制。计算机如何执行我们编写的程序。
+
+- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，无需介绍。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
+- [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
+- [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
+- [计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
+  - [伯克利 cs61c 课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
+    > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
+
+# 算法与数据结构
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于 Introduction to Algorithms 和 Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
+- [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于 Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而 Introduction to Algorithms 是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
+- [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。它的难度和容量可能有点大，不适合入门者。不适合以“解决问题”为导向的学习，适合以“算法研究”为导向的学习。
+- [编程珠玑](https://book.douban.com/subject/3227098/)。相对较薄的一本书。本书并没有系统地归纳各种算法，而是通过一些精心设计的有趣而又颇具指导意义的程序实例，引导读者理解问题、选择和实现算法。
+- [编程之美](https://book.douban.com/subject/3004255/) 面试的经典问题，引发读者思考，领略算法的乐趣。
+- [算法竞赛入门经典](https://book.douban.com/subject/25902102/) 与前面的算法书相比，它的实用性非常强，是一本“解题”的教材，适合学生学习算法（刷题）入门。真希望自己在高中阶段就了解到这本书，开启编程（竞赛）的大门。。。
+
+# 操作系统理论
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)(OSTEP) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。[中文版](https://book.douban.com/subject/33463930/)。
+- [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
+  > 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
+- [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT 的操作系统课程，经常被推荐。其中的 Xv6 项目可以让学习者动手实践，非常难得。
+  - OSTEP 附录给出了[xv6 实验项目清单](https://github.com/remzi-arpacidusseau/ostep-projects)。
 
 # 计算机网络
 
@@ -130,14 +125,16 @@
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 分布式领域神书。分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
   - [DDIA 中文翻译](https://github.com/Vonng/ddia)。
 
-# 操作系统理论
+# 编译原理
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。[中文版](https://book.douban.com/subject/33463930/)。
-- [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
-  > 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
-- [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT 的操作系统课程，经常被推荐。其中的 Xv6 项目可以让学习者动手实践，非常难得。
+- [cs143](http://web.stanford.edu/class/cs143/) 斯坦福的编译器课程。
+  这个课程曾经有 Coursera 的版本，但是后来下架了。在[最好的编译器课程 - 知乎](https://zhuanlan.zhihu.com/p/28823258)可以下载 Coursera 版本的视频。
+- [编译原理](https://book.douban.com/subject/3296317/) 龙书，领域经典。[习题答案](https://github.com/fool2fish/dragon-book-exercise-answers)。
+- [Parsing Techniques](https://book.douban.com/subject/4291903/)。编译器前端。
+- [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
+- [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
 
 # 操作系统实践（Linux 运维）
 
@@ -176,6 +173,18 @@
 - [人月神话](https://book.douban.com/subject/1102259/)
 - [现代软件工程讲义（邹欣）](http://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)
 - [代码整洁之道](https://book.douban.com/subject/4199741/)
+
+## 大型软件的设计思想
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+这个主题可能更适合拥有一定编程经验以后再阅读，结合自己的编程经验才能有深刻的理解。
+
+- [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/) 设计模式，无人不知吧。
+- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和程序设计思想的阐述非常深刻。相对容易理解。
+- [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
+- [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
+- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
 
 # 程序员的自我修养
 
@@ -346,12 +355,7 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-## Optimization (优化理论)
-
-[相关推荐](https://www.zhihu.com/question/25120338)里少不了这两本：
-
-- Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
-- Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
+- [计算机科学中的数学](https://book.douban.com/subject/33396340/)
 
 ## 线性代数
 
@@ -365,6 +369,13 @@
 - [概率论与数理统计](https://book.douban.com/subject/2201479/) 陈希孺院士的书在豆瓣和知乎都好评如潮。
 - [概率论及其应用](https://book.douban.com/subject/1785817/)
 
+## Optimization (优化理论)
+
+深入学习机器学习的同学可能需要关注这个领域。[相关推荐](https://www.zhihu.com/question/25120338)里少不了这两本：
+
+- Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
+- Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
+
 # 杂项
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
@@ -375,7 +386,7 @@
 
 ## 清单
 
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) 如何学习计算机科学最重要的 9 个科目，并给出了每个科目中最重要的学习书籍。它的每个书籍推荐都是既权威又经典，已经全部被本项目收录。
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) 阐释计算机科学最重要的 9 个学科，给出了学习建议和学习顺序，并给出了最优质的学习书籍和课程视频。
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计、架构通识的收集汇总。对每个知识点提供了精炼的讲解以及深入学习的资料链接。
 - [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。碎片化阅读的资料来源。
 - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。
