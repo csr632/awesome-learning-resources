@@ -15,8 +15,8 @@
 - [最优质的学习资料](#最优质的学习资料)
 - [目录](#目录)
 - [算法](#算法)
-- [计算机基础](#计算机基础)
-- [软件设计思想和编程语言](#软件设计思想和编程语言)
+- [计算机体系结构](#计算机体系结构)
+- [程序设计思想和编程语言](#程序设计思想和编程语言)
 - [编译原理](#编译原理)
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
@@ -56,18 +56,18 @@
 - [编程之美](https://book.douban.com/subject/3004255/) 面试的经典问题，引发读者思考，领略算法的乐趣。
 - [Top 10 algorithms in Interview Questions](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/) geeksforgeeks 有很多常用数据结构、算法的文章。这篇文章以及 geeksforgeeks 适合短期复习的同学。
 
-# 计算机基础
+# 计算机体系结构
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
+- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，无需介绍。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
 - [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
 - [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
-- 计算机体系结构：[计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
+- [计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
   - [伯克利 cs61c 课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
     > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
 
-# 软件设计思想和编程语言
+# 程序设计思想和编程语言
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
@@ -87,7 +87,7 @@
 下面的资源可能更适合拥有一定编程经验以后再阅读，结合自己的编程经验才能有深刻的理解。
 
 - [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/) 设计模式，无人不知吧。
-- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和软件设计思想的阐述非常深刻。相对容易理解。
+- [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和程序设计思想的阐述非常深刻。相对容易理解。
 - [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
 - [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
 - [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
