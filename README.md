@@ -24,6 +24,7 @@
 - [编译原理](#编译原理)
 - [计算机网络](#计算机网络)
 - [数据库](#数据库)
+- [分布式系统](#分布式系统)
 - [操作系统理论](#操作系统理论)
 - [操作系统实践（Linux 运维）](#操作系统实践linux运维)
 - [UNIX 编程](#unix编程)
@@ -123,9 +124,21 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 严格来说这本书讲的不是数据库，而是设计数据依赖型应用（data-intensive applications，比如通过网络传输、存储、处理数据的应用）的原则和权衡，它能加深你对数据存储、处理系统的理解，让你更好地选择不同的数据库产品、设计自己的应用架构。这本书在豆瓣和[美国亚马逊](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)上都有很高的评价。
-  - [DDIA 中文翻译](https://github.com/Vonng/ddia)可作为中文参考。
-- [高性能 MySQL](https://book.douban.com/subject/23008813/) 最具代表性的 MySQL 进阶书籍，没有之一。对于要深入学习 MySQL、对其进行调优的同学来说，这本书是必读的。
+- [Berkeley CS186](https://www.youtube.com/user/CS186Berkeley/playlists) 由于数据库学习有很强的商业价值，因此该领域比较少人编写传统教材（牛人都忙着挣钱）。自学数据库，比较适合看这门课程视频入门，然后阅读下面的进阶资料。
+- [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf) 一篇梗概性论文，提供了独特的对关系型数据库管理系统（RDBMS）如何工作的高层次观点，是后续学习的实用梗概。
+- [Readings in Database Systems](http://www.redbook.io/) 又称“数据库红书”，数据库领域的经典论文合集。时效性很高。
+- [数据库管理系统原理与设计](https://book.douban.com/subject/1155934/) 数据库教材。比较老但是非常经典。
+
+> 上述数据库经典资料推荐都来自[Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md#%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+- [高性能 MySQL](https://book.douban.com/subject/23008813/) 如果你已经在工作实践中使用 MySQL，要深入学习 MySQL、对其进行调优，那么这本书是必读的；否则，还是优先阅读上面的经典资料。
+
+# 分布式系统
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 分布式领域神书。分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
+  - [DDIA 中文翻译](https://github.com/Vonng/ddia)。
 
 # 操作系统理论
 
@@ -372,12 +385,11 @@
 
 ## 清单
 
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) 如何学习计算机科学最重要的 9 个科目，并给出了每个科目中最重要的学习书籍。它的每个书籍推荐都是既权威又经典，已经全部被本项目收录。
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计、架构通识的收集汇总。对每个知识点提供了精炼的讲解以及深入学习的资料链接。
+- [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。碎片化阅读的资料来源。
+- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。
 - [What is the single most influential book every programmer should read?](http://bestprogrammingbooks.com/updated-100-influential-stackoverflow-programming-books/) [StackOverflow 上一个很火的问题](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)的更新版，里面都是经典书籍。
-- [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。
-- [awesome lists](https://github.com/sindresorhus/awesome) 非常全面资源清单，不仅包括学习资源，而且涵盖了工具资源。
-- [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计入门。这是后端系统、架构通识的清单，不局限于任何后端语言。并且提供了帮助记忆的工具[Anki flashcard decks](https://github.com/donnemartin/system-design-primer#anki-flashcards)。
-- [Computer Science Knowledge Study Plan](https://github.com/jwasham/coding-interview-university) **计算机科学**的知识，是底层码农通往软件工程师的阶梯。这个清单详尽列举了**计算机科学**的知识点以及学习资源。
-- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java。作者应该是站在 Java 后端开发的角度来梳理的。
 
 ## 公开课
 
