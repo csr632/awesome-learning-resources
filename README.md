@@ -205,6 +205,7 @@
 - [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
 - [哥德尔、艾舍尔、巴赫: 集异璧之大成](https://book.douban.com/subject/1291204/) 视角跨越多个领域的奇书。
 - [人类简史](https://book.douban.com/subject/25985021/)
+- [浪潮之巅](https://book.douban.com/subject/33474750/) 在科技产业的发展历史中探寻规律。
 - [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
 - [经济学原理](https://book.douban.com/subject/1028842/) 权威的经济学科普书籍。不要成为一个只会埋头干活的码农。
 
@@ -238,10 +239,9 @@
 
 ## JavaScript 开发进阶
 
-- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) **它专注于[ECMAScript 这门语言](https://github.com/tc39/ecma262)，并不涉及[Web API](https://developer.mozilla.org/en-US/docs/Web/API)**。它用非常精炼的语言构建了现代 JavaScript 的知识体系（涵盖到 ES2019）。作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客也值得关注。
-- [JavaScript 高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和 Web API。第三版有点老了，只涵盖 ES5，不过依旧是经典。[2019 年 6 月会出第四版](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-4th-Edition.productCd-1119366445.html)。
-- [The Modern JavaScript Tutorial](https://javascript.info/) 现代 JavaScript 开发教程。包含了 ECMAScript 语言和重要的 Web API。个人认为它的主要价值在于对重要 Web API 的分类整理与阐释。
-- [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 从语言标准的角度讲解了 Prototype、Execution context、lexical environment、Closure 等高级概念，适合编程语言理论爱好者。内容基于 ES6。
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html) **它专注于[ECMAScript 这门语言](https://github.com/tc39/ecma262)，并不涉及[Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)**。它用非常精炼的语言构建了现代 JavaScript 的知识体系（涵盖到 ES2019）。作者[Dr. Axel Rauschmayer](http://dr-axel.de/)的博客也值得关注。
+- [JavaScript 高级程序设计](https://book.douban.com/subject/35175321/) 兼顾了语言和 Web APIs。
+- [The Modern JavaScript Tutorial](https://javascript.info/) 现代 JavaScript 开发教程。包含了 ECMAScript 语言和重要的 Web APIs。个人认为它的主要价值在于对重要 Web APIs 的分类整理与阐释。
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分 js 开发者应该都听说过，进阶必读。
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)。将函数式编程思想应用在 JavaScript 开发中。虽然 JavaScript 很难做到“最纯正”的函数式编程，但是本着实用主义的心态，学习多一种编程范式，对于开发者来说是十分有益的，更何况很多前端框架都借鉴了函数式编程思想。
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)。同上一本，这两本书应该是 JavaScript 函数式编程书里的首选了。
@@ -261,10 +261,6 @@
 
 ## 前端杂项
 
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 比较新的 JavaScript 设计模式书，而且是开源的。它总结了 JavaScript 在实践中常用的设计模式。作者[Addy Osmani](https://addyosmani.com/)在 Google Chrome 做工程管理。
-- [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) webpack 学习资料。不过如果可以的话还是直接阅读官方文档吧。
-- [冴羽写博客的地方](https://github.com/mqyqingfeng/Blog) 教你一些 JavaScript 的实战常用技巧，比如节流、防抖、类型判断、深浅拷贝、柯里化等等。JavaScript 理论书不会告诉你的使用技巧，这个博客为你总结了很多。这种实战技巧也是频繁的面试考点。虽然作者似乎不是很有名，但是这个博客确实能让读者学会很多，Star 数量也挺高的。
-  <!--* [Alloy周刊](http://www.alloyteam.com/alloyshare/weekly/p/latest) 腾讯AlloyTeam的周刊，每周推几篇前端好文，有微信公众号可以关注。-->
 - [奇舞周刊](https://weekly.75team.com/) 每周推荐几篇前端精华文章。
 - [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star 数量也挺高的。
 - [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
@@ -302,14 +298,6 @@
 - [awesome-angular](https://github.com/gdi2290/awesome-angular) 很全面的 Angular 学习资源列表。缺点是有点杂。建议先看[Angular Connect 小节](https://github.com/gdi2290/awesome-angular#angular-connect)精选的会议视频。
 - [Learn Angular from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016) 这个专栏专门收集最受欢迎的技术文章、公开课，每个月或每一年更新一次。他们还做了 React、Node.js、python、machine learning 等技术的排行。
 - [RxJS Marbles](http://rxmarbles.com/) 通过交互式动画来学习 Rx Observables。
-
-## Vue
-
-入门直接看官方文档就好，这里只列举用于进阶的资料。
-
-- [Vue 技术内幕](https://github.com/HcySunYang/vue-design) 逐行级别的源码分析，并且会一直跟进 Vue 的更新。该作者在去年写的一篇文章也推荐阅读：[Vue2.1.7 源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)。
-- [Vue.js 源码分析](https://github.com/answershuto/learnVue)
-- [Vue.js 技术揭秘](https://github.com/ustbhuangyi/vue-analysis)
 
 # 机器学习
 
