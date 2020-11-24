@@ -8,11 +8,25 @@
 
 本项目将持续更新。如果这个项目有幸帮助到了你，加个 Star 吧！
 
+# 快速开始！
+
+在进行全面的资料列举之前，我想提醒读者：“过于丰富”的资料清单可能会造成畏惧或者自满的心态，**真正开始学习**才是提升自己的第一步。
+
+如果你不想花费时间在挑选和犹豫上，那么**本小节为你总结了几本最值得投入精力的书，以便你快速开始**：
+
+- 神书：[深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 理解计算机和编程的本质
+- 神书：[计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 理解计算机如何执行我们编写的程序
+- 神书：[数据密集型应用系统设计(DDIA)](https://book.douban.com/subject/30329536/) 理解分布式系统设计的原则和权衡
+- 算法首选：[Algorithms](https://book.douban.com/subject/19952400/)
+- 操作系统首选：[Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)
+- 计算机网络首选：[计算机网络 自顶向下方法](https://book.douban.com/subject/26176870/)
+
 # 目录
 
 <!--ts-->
 
 - [最优质的学习资料](#最优质的学习资料)
+- [快速开始！](#快速开始！)
 - [目录](#目录)
 - [程序设计思想和编程语言](#程序设计思想和编程语言)
 - [计算机体系结构](#计算机体系结构)
@@ -51,17 +65,17 @@
 
 建立对计算机和编程的基本认识。
 
-- [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解程序的本质。务必完成书中的练习。
+- [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解计算机和编程的本质。务必完成书中的练习。
   - [官方 HTML 版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
   - [SICP 公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有 SICP 课程的中英文资源。
   - 语言&编辑器：做练习的时候推荐使用[Racket](https://racket-lang.org/)并安装[SICP 扩展包](https://docs.racket-lang.org/sicp-manual/)。Racket 的 IDE 使用体验比 MIT-Scheme 好很多，并且 Racket 本身也是一门非常年轻优秀的 Scheme 方言。
   - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[composingprograms](http://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教 SICP，作为 cs61a 的教科书使用。
   - 学习 Lisp 之前可以看看这两篇经典的博文：[Lisp 的本质(The Nature of Lisp)](https://www.cnblogs.com/Leap-abead/articles/762180.html)、[Lisp 的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)。让你提前对 Lisp 的魔法有所了解。
-- [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。这本书使用函数式编程语言 Racket （一门非常年轻优秀的编程语言）来讲解，但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官网免费阅读](https://www.htdp.org/)。
-  - 这本书是面向编程入门者的角度来讲解的，所以对于有编程基础的人来说有一些啰嗦，建议跳读。
 - [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Programming Language: Application and Interpretation(PLAI)](https://book.douban.com/subject/11628134/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略编程背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
+- [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。这本书使用函数式编程语言 Racket （一门非常年轻优秀的编程语言）来讲解，但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官网免费阅读](https://www.htdp.org/)。
+  - 这本书是面向编程入门者的角度来讲解的，所以对于有编程基础的人来说有一些啰嗦，建议跳读。
 - [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
 
 # 计算机体系结构
@@ -70,7 +84,7 @@
 
 计算机底层运行机制。计算机如何执行我们编写的程序。
 
-- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，无需介绍。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
+- [深入理解计算机系统(CSAPP)](https://book.douban.com/subject/26912767/) 神书，帮助你理解计算机如何执行我们编写的程序。 [CMU 公开课资源](https://github.com/EugeneLiu/translationCSAPP)。
 - [编码 隐匿在计算机软硬件背后的语言](https://book.douban.com/subject/4822685/) 通俗易懂，面向入门者，近乎科普。评价很高，经常被推荐。
 - [程序员的自我修养](https://book.douban.com/subject/3652388/) 讲解了一个程序在其生命周期里会碰到的种种事物。国人写的书。经常被推荐。
 - [计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
@@ -122,8 +136,8 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://book.douban.com/subject/26197294/) 分布式领域神书。分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
-  - [DDIA 中文翻译](https://github.com/Vonng/ddia)。
+- [数据密集型应用系统设计(DDIA)](https://book.douban.com/subject/30329536/) 分布式领域神书。帮助你理解分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
+  - [开源翻译版本](https://github.com/Vonng/ddia)。
 
 # 编译原理
 
@@ -228,7 +242,7 @@
 - [JavaScript 高级程序设计](https://book.douban.com/subject/10546125/) 兼顾了语言和 Web API。第三版有点老了，只涵盖 ES5，不过依旧是经典。[2019 年 6 月会出第四版](http://www.wrox.com/WileyCDA/WroxTitle/Professional-JavaScript-for-Web-Developers-4th-Edition.productCd-1119366445.html)。
 - [The Modern JavaScript Tutorial](https://javascript.info/) 现代 JavaScript 开发教程。包含了 ECMAScript 语言和重要的 Web API。个人认为它的主要价值在于对重要 Web API 的分类整理与阐释。
 - [JavaScript. The Core: 2nd Edition](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/) 从语言标准的角度讲解了 Prototype、Execution context、lexical environment、Closure 等高级概念，适合编程语言理论爱好者。内容基于 ES6。
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分 js 开发者应该都听说过，开源神书，进阶必读。
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series) 大部分 js 开发者应该都听说过，进阶必读。
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)。将函数式编程思想应用在 JavaScript 开发中。虽然 JavaScript 很难做到“最纯正”的函数式编程，但是本着实用主义的心态，学习多一种编程范式，对于开发者来说是十分有益的，更何况很多前端框架都借鉴了函数式编程思想。
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)。同上一本，这两本书应该是 JavaScript 函数式编程书里的首选了。
 - [Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch) JavaScript 视频推荐列表，Star 数量很多。不过内容太多，建议选择感兴趣/重要的来观看。太旧的视频也需要斟酌一下。
