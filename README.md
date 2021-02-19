@@ -50,9 +50,9 @@
   - [TensorFlow](#tensorflow)
   - [PyTorch](#pytorch)
 - [数学基础](#数学基础)
-  - [Optimization (优化理论)](#optimization-优化理论)
   - [线性代数](#线性代数)
   - [概率与统计](#概率与统计)
+  - [Optimization (优化理论)](#optimization-优化理论)
 - [杂项](#杂项)
   - [清单](#清单)
   - [公开课](#公开课)
@@ -312,6 +312,7 @@
 - [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
 - [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
 - [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
+- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) 深入浅出，将信息论与机器学习联系了起来。读[刘未鹏博客](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)的时候了解到的书，搜了一下评价还挺好。
 
 > 其他机器学习书单：[机器学习经典书籍](http://suanfazu.com/t/topic/15) [人工智能入门书单（附 PDF 链接）](http://www.sohu.com/a/218561098_355140)
 
@@ -355,6 +356,7 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
+- [数学之美](https://book.douban.com/subject/35033507/) 用数学知识用来解决实际问题。这是一本能激发读者对数学的兴趣的科普书，而不是一本生硬的教科书。
 - [计算机科学中的数学](https://book.douban.com/subject/33396340/)
 
 ## 线性代数
