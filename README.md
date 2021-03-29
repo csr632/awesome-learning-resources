@@ -106,11 +106,12 @@
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)(OSTEP) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读。官网最下面也列举了一些操作系统学习资源。[中文版](https://book.douban.com/subject/33463930/)。
+- [Operating Systems: Three Easy Pieces](https://book.douban.com/subject/19973015/)(OSTEP) 评价很高的操作系统书。可以在[官网](http://pages.cs.wisc.edu/~remzi/OSTEP/)免费阅读英文版。[中文版](https://book.douban.com/subject/33463930/)。
+  - [配套小作业](https://github.com/remzi-arpacidusseau/ostep-homework)
+  - [配套项目](https://github.com/remzi-arpacidusseau/ostep-projects)
 - [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
   > 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
-- [6.828](https://pdos.csail.mit.edu/6.828/2017/schedule.html) MIT 的操作系统课程，经常被推荐。其中的 Xv6 项目可以让学习者动手实践，非常难得。
-  - OSTEP 附录给出了[xv6 实验项目清单](https://github.com/remzi-arpacidusseau/ostep-projects)。
+- [6.828](https://pdos.csail.mit.edu/6.828/2020/schedule.html) MIT 的操作系统课程，经常被推荐。按照这个课程安排，阅读讲义、动手实践。
 
 # 计算机网络
 
