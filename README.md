@@ -387,6 +387,11 @@
 - [The Missing Semester of Your CS Education](https://missing-semester-cn.github.io/) MIT 课程，讲解命令行、vim、git 等**编程工具与编程常识**，非常实用。
 - [快捷键大全](http://mykeys.sinaapp.com/index.php) 用好手上的工具也是很重要的。
 
+## Vim
+
+- [Learn-Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn) 教程类型，适合跟着学习。
+- [vim-galore](https://github.com/wsdjeg/vim-galore-zh_cn) 手册类型，适合复习查阅。
+
 ## 清单
 
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) 阐释计算机科学最重要的 9 个学科，给出了学习建议和学习顺序，并给出了最优质的学习书籍和课程视频。
