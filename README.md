@@ -156,7 +156,8 @@
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
 - [The Linux Command Line(TLCL)](https://book.douban.com/subject/6806862/)，[官网可下载 PDF](http://linuxcommand.org/tlcl.php)，[中译本](http://billie66.github.io/TLCL/book/) 生动清晰的入门小册，教你通过命令行真正地掌控计算机。非常适合 Linux 入门。在知乎和豆瓣的评价都很高。
-- [鸟哥的 Linux 私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。知乎上有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
+- [UNIX/Linux 系统管理技术手册](https://book.douban.com/subject/10747453/) 实操手册，全面阐述了Linux相关概念。
+- [鸟哥的 Linux 私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start 数量惊人。。。
 
 - [Google SRE](https://book.douban.com/subject/26875239/) 来自 Google 的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
