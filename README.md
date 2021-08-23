@@ -74,7 +74,7 @@
   - 学习 Lisp 之前可以看看这两篇经典的博文：[Lisp 的本质(The Nature of Lisp)](https://www.cnblogs.com/Leap-abead/articles/762180.html)、[Lisp 的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)。让你提前对 Lisp 的魔法有所了解。
 - [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Programming Language: Application and Interpretation(PLAI)](https://book.douban.com/subject/11628134/) Scheme 三剑客之一，助你看透编程语言的本质。
-- [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略编程背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)
+- [Concepts, Techniques, and Models of Computer Programming](https://en.wikipedia.org/wiki/Concepts,_Techniques,_and_Models_of_Computer_Programming) 被认为是 SICP 近代继任者，覆盖面稍广于 SICP，但知名度远不及 SICP。带读者领略编程背后的概念和思想。[官方网站](https://www.info.ucl.ac.be/~pvr/book.html)。[电子书下载](https://freecomputerbooks.com/Concepts-Techniques-and-Models-of-Computer-Programming.html)。
 - [How to Design Programs(HTDP)](https://book.douban.com/subject/1787103/) 正如它的名字所说，它教你如何有条理地设计计算机程序。这本书使用函数式编程语言 Racket （一门非常年轻优秀的编程语言）来讲解，但是它不是一本教你编程语言的书，它所包含的知识是普适的。[官网免费阅读](https://www.htdp.org/)。
   - 这本书是面向编程入门者的角度来讲解的，所以对于有编程基础的人来说有一些啰嗦，建议跳读。
 - [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
