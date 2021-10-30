@@ -45,6 +45,7 @@
 - [程序员的自我修养](#程序员的自我修养)
 - [C/C++](#cc)
 - [Python](#python)
+- [编程实践](#编程实践)
 - [前端](#前端)
 - [机器学习](#机器学习)
   - [TensorFlow](#tensorflow)
@@ -236,6 +237,12 @@
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html) Rust 官方出品的在线练习网站，通过练习来巩固这门语言的知识点。
 - [rustlings](https://github.com/rust-lang/rustlings) Rust 官方出品的小练习，帮助你熟悉 Rust 编程，包括代码读、写，以及 Rust 编译器的使用，实践性教程。
 
+# 编程实践
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [pytudes](https://github.com/norvig/pytudes) Peter Norvig 设计的一系列编程问题。相比于在Leetcode刷到的题目，这里的问题更能锻炼解决实际问题的能力。并且 Peter Norvig 亲自给出详细的思考引导和解答，相当于世界钢琴大师教你学习钢琴。
+
 # 前端
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
@@ -316,6 +323,7 @@
 - [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
 - [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) 深入浅出，将信息论与机器学习联系了起来。读[刘未鹏博客](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)的时候了解到的书，搜了一下评价还挺好。
+- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) Peter Norvig 的书。书中每章的例子都很有意思，适合想通过案例来学习的同学。
 
 > 其他机器学习书单：[机器学习经典书籍](http://suanfazu.com/t/topic/15) [人工智能入门书单（附 PDF 链接）](http://www.sohu.com/a/218561098_355140)
 
@@ -400,7 +408,7 @@
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计、架构通识的收集汇总。对每个知识点提供了精炼的讲解以及深入学习的资料链接。
 - [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。碎片化阅读的资料来源。
 - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。
-- [What is the single most influential book every programmer should read?](http://bestprogrammingbooks.com/updated-100-influential-stackoverflow-programming-books/) [StackOverflow 上一个很火的问题](https://stackoverflow.com/questions/1711/what-is-the-single-most-influential-book-every-programmer-should-read)的更新版，里面都是经典书籍。
+- [Most influential books for programmers](https://github.com/cs-books/influential-cs-books) 经典书籍。
 
 ## 公开课
 
