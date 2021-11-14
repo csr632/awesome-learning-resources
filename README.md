@@ -401,7 +401,8 @@
 
 - [Learn-Vim](https://github.com/wsdjeg/Learn-Vim_zh_cn) 教程类型，适合跟着学习。
 - [vim-galore](https://github.com/wsdjeg/vim-galore-zh_cn) 手册类型，适合复习查阅。
-- [vscode-vim-book](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents) vim教程，面向vscode用户。如果你主要使用vscode，那么直接看它就可以了。
+- [vscode-vim-book](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/table-of-contents) vim教程，面向vscode用户（vscode可以通过安装[插件](https://github.com/VSCodeVim/Vim)来支持vim特性）。如果你主要使用vscode，那么直接看它就可以了。
+  - [vscode-vim 支持列表](https://github.com/VSCodeVim/Vim/blob/master/ROADMAP.md)列出了这个插件支持的所有vim特性。可以作为复习或参考。
 
 ## 清单
 
