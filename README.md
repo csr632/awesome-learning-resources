@@ -234,8 +234,9 @@
 # Rust
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/index.html) Rust 官方推荐教材。详尽涵盖了 Rust 的理论基础。最好结合下面实践资料一起学习。
-- [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html) Rust 官方出品的在线练习网站，通过练习来巩固这门语言的知识点。
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/) Rust 官方出品的在线练习网站，通过练习来巩固这门语言的知识点。
 - [rustlings](https://github.com/rust-lang/rustlings) Rust 官方出品的小练习，帮助你熟悉 Rust 编程，包括代码读、写，以及 Rust 编译器的使用，实践性教程。
+- [Rust Language Cheat Sheet](https://cheats.rs/) Rust 语言的备忘清单，非常适合随时翻阅。在保持简练的同时，兼具了不错的深度和广度。
 
 # 编程实践
 
