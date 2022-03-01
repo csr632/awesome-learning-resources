@@ -319,7 +319,7 @@
 - [Artificial Intelligence: A Modern Approach](https://book.douban.com/subject/6730363/) 经典教科书。它的[官网](http://aima.cs.berkeley.edu/)有补充资料。
 - [Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/) 领域经典。这是其中的[算法实现(matlab)](http://prml.github.io/)。
 - [Deep Learning](https://github.com/exacity/deeplearningbook-chinese) 被誉为“深度学习圣经”。[中文版](https://github.com/exacity/deeplearningbook-chinese)已经出版并且开源。
-- [Machine learning: a propability perspective](https://book.douban.com/subject/10758624/) 领域经典。
+- [Machine Learning: A Probabilistic Perspective](https://book.douban.com/subject/10758624/) 领域经典。作者Kevin Murphy已经将它重写为一个新的系列[Probabilistic Machine Learning](https://github.com/probml/pml-book)。
 - [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
 - [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
 - [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
