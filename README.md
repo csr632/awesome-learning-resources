@@ -54,6 +54,7 @@
   - [线性代数](#线性代数)
   - [概率与统计](#概率与统计)
   - [Optimization (优化理论)](#optimization-优化理论)
+- [计算理论](#计算理论)
 - [杂项](#杂项)
   - [Vim](#vim)
   - [清单](#清单)
@@ -389,6 +390,16 @@
 
 - Convex Optimization. Stephen Boyd, 2004, Cambridge university press.
 - Numerical Optimization. Nocedal, J. Wright, S. 2006, Springer.
+
+# 计算理论
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+数理逻辑、形式语言与自动机理论、可计算性理论、计算复杂性理论等。
+
+- [Introduction to the Theory of Computation](https://book.douban.com/subject/1852515/)
+- [Introduction to Automata Theory, Languages, and Computation](https://book.douban.com/subject/2274854/)
+- [计算的本质 - 深入剖析程序和计算机](https://book.douban.com/subject/26148763/) 讲解更浅显易懂，偏实践，更适合入门。
 
 # 杂项
 
