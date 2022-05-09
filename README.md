@@ -45,6 +45,7 @@
 - [程序员的自我修养](#程序员的自我修养)
 - [C/C++](#cc)
 - [Python](#python)
+- [Java](#java)
 - [编程实践](#编程实践)
 - [前端](#前端)
 - [机器学习](#机器学习)
@@ -81,6 +82,9 @@
   - 这本书是面向编程入门者的角度来讲解的，所以对于有编程基础的人来说有一些啰嗦，建议跳读。
 - [Software Foundations](https://book.douban.com/subject/25712292/) 编程语言理论中的圣经。
 
+【实用的、补充性的学习材料】，用于入门时的对照参考：
+- [七周七语言：理解多种编程范型](https://book.douban.com/subject/10555435/)
+
 # 计算机体系结构
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
@@ -93,6 +97,9 @@
 - [计算机组成与设计 硬件/软件接口](https://book.douban.com/subject/26604008/)，[计算机体系结构 量化研究方法](https://book.douban.com/subject/7006537/)这两本书作者是一样的，但内容不一样。只要是推荐这方面的书的问题，少不了这两本。我上计算机组成原理课的时候用的就是前面那本书，虽然内容听起来很可怕，但是英文版读起来真的很好懂（只要你英语过关）。
   - [伯克利 cs61c 课程](http://www-inst.eecs.berkeley.edu/~cs61c/su18/)是以这本书为教材的，在课程官网可以找到学习资源。
     > 参考这两个知乎问题：[有哪些不错的介绍计算机体系结构的书籍？](https://www.zhihu.com/question/19897585)，[计算机体系结构这门课的主要内容是什么？ 如何自学？](https://www.zhihu.com/question/37330125)
+
+【实用的、补充性的学习材料】，用于入门时的对照参考：
+- [程序员的自我修养 : 链接、装载与库](https://book.douban.com/subject/3652388/) 介绍系统软件的运行机制和原理，可以与《深入理解计算机系统》(CSAPP)对照学习。
 
 # 算法与数据结构
 
@@ -135,6 +142,12 @@
 > 上述数据库经典资料推荐都来自[Teach Yourself Computer Science](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md#%E6%95%B0%E6%8D%AE%E5%BA%93)
 
 - [高性能 MySQL](https://book.douban.com/subject/23008813/) 如果你已经在工作实践中使用 MySQL，要深入学习 MySQL、对其进行调优，那么这本书是必读的；否则，还是优先阅读上面的经典资料。
+- [MySQL技术内幕](https://book.douban.com/subject/24708143/)
+- [Redis设计与实现](https://book.douban.com/subject/25900156/)
+
+## 大数据处理
+
+- [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://book.douban.com/subject/27080632/) 大数据处理的系统性总结。[知乎上的评价很高](https://www.zhihu.com/question/304152591/answer/582946546)。
 
 # 分布式系统
 
@@ -142,6 +155,7 @@
 
 - [数据密集型应用系统设计(DDIA)](https://book.douban.com/subject/30329536/) 分布式领域神书。帮助你理解分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
   - [开源翻译版本](https://github.com/Vonng/ddia)。
+- [分布式系统：概念与设计](https://book.douban.com/subject/21624776/) 经典教科书。
 
 # 编译原理
 
@@ -200,19 +214,54 @@
 - [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1099305/) 设计模式，无人不知吧。
 - [冒号课堂 编程范式与 OOP 思想](https://book.douban.com/subject/4031906/) 虽然书名起得不好，但是不妨碍它是一本好书，对编程范式和程序设计思想的阐述非常深刻。相对容易理解。
 - [Stanford CS107 Programming Paradigms(编程范式)](http://open.163.com/special/opencourse/paradigms.html)
-- [Clean Architecture：软件架构与设计匠艺](https://book.douban.com/subject/26915970/)
-- [领域驱动设计:软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
+- [Clean Architecture (软件架构与设计匠艺)](https://book.douban.com/subject/26915970/)
+- [Clean Code (代码整洁之道)](https://book.douban.com/subject/3032825/)
+- [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
+- [领域驱动设计：软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
+- [A Philosophy of Software Design](https://book.douban.com/subject/30218046/)
 
 # 程序员的自我修养
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
-- [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
-- [哥德尔、艾舍尔、巴赫: 集异璧之大成](https://book.douban.com/subject/1291204/) 视角跨越多个领域的奇书。
-- [人类简史](https://book.douban.com/subject/25985021/)
+## 程序员相关
+
 - [浪潮之巅](https://book.douban.com/subject/33474750/) 在科技产业的发展历史中探寻规律。
-- [暗时间](https://book.douban.com/subject/6709809/) 作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
-- [经济学原理](https://book.douban.com/subject/1028842/) 权威的经济学科普书籍。不要成为一个只会埋头干活的码农。
+- [高效能人士的七个习惯](https://book.douban.com/subject/5325618/) 个人管理、组织管理的智慧精髓。
+- [黑客与画家](https://book.douban.com/subject/6021440/) 被无数人推荐。
+- [软件随想录](https://book.douban.com/subject/4163938/) 这是一部关于软件技术、人才、创业和企业管理的随想文集。
+- [大教堂与集市](https://book.douban.com/subject/25881855/) 开源软件的文化、知识和智慧。
+- [The Design of Everyday Things](https://book.douban.com/subject/21983611/) 设计中的哲学。
+- [启示录：打造用户喜爱的产品](https://book.douban.com/subject/5914587/) 产品经理和产品管理者必读的经验总结。
+- [哥德尔、艾舍尔、巴赫: 集异璧之大成](https://book.douban.com/subject/1291204/) 视角跨越多个领域的奇书。
+
+## 哲学
+
+- [苏菲的世界](https://book.douban.com/subject/2284311/) 以小说的形式，通过一名哲学导师向一个叫苏菲的女孩传授哲学知识的经过，揭示了西方哲学发展的历程。
+- [禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)
+- [你的第一本哲学书](https://book.douban.com/subject/26892991/)
+- [大问题：简明哲学导论](https://book.douban.com/subject/25961458/)
+- [哲学问题](https://book.douban.com/subject/35305167/)
+
+## 数学和自然科学
+
+- [从一到无穷大](https://book.douban.com/subject/30305868/)
+- [怎样解题：数学思维的新方法](https://book.douban.com/subject/2124114/)
+- [上帝掷骰子吗？](https://book.douban.com/subject/6434486/)
+
+## 人文社科
+
+- [人类简史](https://book.douban.com/subject/25985021/)
+- [经济学原理](https://book.douban.com/subject/1028842/) 权威的经济学科普书籍。
+- [心理学与生活](https://book.douban.com/subject/1032501/)
+- [社会心理学](https://book.douban.com/subject/1476651/)
+
+## 生活的智慧
+
+- [十分钟冥想](https://book.douban.com/subject/34888157/) 对自己的情感、想法、肢体感觉、冲动、本能、习性保持觉醒，避免让自己陷入其中盲目的、负面的、无意义的部分。
+- [暗时间](https://book.douban.com/subject/6709809/) 自我提升与日常思考随笔。作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
+- [把时间当作朋友](https://book.douban.com/subject/3609132/) 自我提升与时间管理。
+- [被讨厌的勇气](https://book.douban.com/subject/26369699/)
 
 # C/C++
 
@@ -238,6 +287,15 @@
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) Rust 官方出品的在线练习网站，通过练习来巩固这门语言的知识点。
 - [rustlings](https://github.com/rust-lang/rustlings) Rust 官方出品的小练习，帮助你熟悉 Rust 编程，包括代码读、写，以及 Rust 编译器的使用，实践性教程。
 - [Rust Language Cheat Sheet](https://cheats.rs/) Rust 语言的备忘清单，非常适合随时翻阅。在保持简练的同时，兼具了不错的深度和广度。
+
+# Java
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [Java核心技术](https://book.douban.com/subject/26880667/)
+- [Java编程思想](https://book.douban.com/subject/2130190/)
+- [Effective Java](https://book.douban.com/subject/2696119/)
+- [Java并发编程实战](https://book.douban.com/subject/10484692/)
 
 # 编程实践
 
@@ -325,9 +383,13 @@
 - [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
 - [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
 - [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) 深入浅出，将信息论与机器学习联系了起来。读[刘未鹏博客](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)的时候了解到的书，搜了一下评价还挺好。
-- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) Peter Norvig 的书。书中每章的例子都很有意思，适合想通过案例来学习的同学。
 
-> 其他机器学习书单：[机器学习经典书籍](http://suanfazu.com/t/topic/15) [人工智能入门书单（附 PDF 链接）](http://www.sohu.com/a/218561098_355140)
+> 其它机器学习书单：[人工智能入门书单（附 PDF 链接）](http://www.sohu.com/a/218561098_355140)
+
+实战向书籍：
+
+- [机器学习实战](https://book.douban.com/subject/35218199/) 通过实践来入门机器学习。[是一本评价很好的入门书籍](https://www.zhihu.com/question/304152591/answer/582946546)。
+- [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) Peter Norvig 的书。书中每章的例子都很有意思，适合想通过案例来学习的同学。
 
 课程：
 
@@ -374,6 +436,7 @@
 
 ## 线性代数
 
+- [线性代数的本质](https://www.bilibili.com/video/BV1ys411472E) 知名数学视频博主3Blue1Brown制作的动画视频。强烈建议入门者先看完它，建立起直观的思维图像。这样，在未来才能快速理解学习到的概念。
 - [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)
 - [Linear Algebra - MIT 公开课](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 这个是[OCW Scholar(Open CourseWare Scholar)](https://ocw.mit.edu/courses/ocw-scholar/)版本，专门为自学者收编，除了课堂视频和课堂讲稿以外，还提供了习题讲解视频、作业和答案等资源，更加完备。
 - [Linear Algebra and Its Applications](https://book.douban.com/subject/1425950/)
@@ -383,6 +446,12 @@
 - [All of Statistics](https://book.douban.com/subject/2285151/) 备受推荐。内容很好地涵盖了机器学习所需，又不至于太臃肿。在[官网](http://www.stat.cmu.edu/~larry/all-of-statistics/)可以下载 pdf 版本。
 - [概率论与数理统计](https://book.douban.com/subject/2201479/) 陈希孺院士的书在豆瓣和知乎都好评如潮。
 - [概率论及其应用](https://book.douban.com/subject/1785817/)
+
+## 微积分
+
+- [微积分的本质](https://www.bilibili.com/video/BV1qW411N7FU) 知名数学视频博主3Blue1Brown制作的动画视频。强烈建议入门者先看完它，建立起直观的思维图像。这样，在未来才能快速理解学习到的概念。
+- [微积分的力量](https://book.douban.com/subject/35292688/)
+- [普林斯顿微积分读本](https://book.douban.com/subject/26899701/)
 
 ## Optimization (优化理论)
 
