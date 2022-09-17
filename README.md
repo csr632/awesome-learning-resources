@@ -56,6 +56,7 @@
   - [概率与统计](#概率与统计)
   - [Optimization (优化理论)](#optimization-优化理论)
 - [计算理论](#计算理论)
+- [信息论](#信息论)
 - [杂项](#杂项)
   - [Vim](#vim)
   - [清单](#清单)
@@ -383,7 +384,7 @@
 - [机器学习（周志华）](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm) 国内首屈一指的机器学习教科书。即使我的老师没有指定过教课书，但是同学们还是不约而同地买了这本书，可见其受欢迎程度。
 - [The Elements of Statistical Learning : Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) 领域经典。
 - [统计学习方法](https://book.douban.com/subject/10590856/) 国内非常有名的机器学习书。虽然内容没有《机器学习（周志华）》那么全面，但是它的算法讲得更深入一些。
-- [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) 深入浅出，将信息论与机器学习联系了起来。读[刘未鹏博客](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)的时候了解到的书，搜了一下评价还挺好。
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itila/book.html) 信息论好书。深入浅出，将信息论与机器学习联系了起来。读[刘未鹏博客](http://mindhacks.cn/2008/09/21/the-magical-bayesian-method/)的时候了解到的书。
 
 > 其它机器学习书单：[人工智能入门书单（附 PDF 链接）](http://www.sohu.com/a/218561098_355140)
 
@@ -470,6 +471,17 @@
 - [Introduction to the Theory of Computation](https://book.douban.com/subject/1852515/)
 - [Introduction to Automata Theory, Languages, and Computation](https://book.douban.com/subject/2274854/)
 - [计算的本质 - 深入剖析程序和计算机](https://book.douban.com/subject/26148763/) 讲解更浅显易懂，偏实践，更适合入门。
+
+# 信息论
+
+<font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
+
+- [Elements of Information Theory](https://book.douban.com/subject/2305237/) 经典信息论教科书。
+- [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itila/book.html) 信息论好书。在机器学习书单也介绍过。
+
+课程视频：
+- [信息论 - 台湾交通大学 陈伯宁](https://www.bilibili.com/video/BV14N41197bN)
+- [信息论 - 上海交通大学 程帆](https://www.bilibili.com/video/BV1kE411E7HX)
 
 # 杂项
 
