@@ -259,6 +259,7 @@
 ## 生活的智慧
 
 - [十分钟冥想](https://book.douban.com/subject/34888157/) 对自己的情感、想法、肢体感觉、冲动、本能、习性保持觉醒，避免让自己陷入其中盲目的、负面的、无意义的部分。
+- [纳瓦尔宝典](https://book.douban.com/subject/35876121/)。[在官网上可以免费下载和阅读（英文版）](https://www.navalmanack.com/)。
 - [暗时间](https://book.douban.com/subject/6709809/) 自我提升与日常思考随笔。作者刘未鹏，他的[博客](http://mindhacks.cn/)也值得一读。从文章都能感觉到作者是一个善于思考的人，文章经常能给人醍醐灌顶的感觉。
 - [把时间当作朋友](https://book.douban.com/subject/3609132/) 自我提升与时间管理。
 - [被讨厌的勇气](https://book.douban.com/subject/26369699/)
@@ -492,6 +493,7 @@
 - [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。碎片化阅读的资料来源。
 - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。
 - [Most influential books for programmers](https://github.com/cs-books/influential-cs-books) 经典书籍。
+- [纳瓦尔的推荐书单](https://www.navalmanack.com/navals-recommended-reading)。[豆瓣书单搬运](https://www.douban.com/doulist/147631922/)。
 
 ## 公开课
 
