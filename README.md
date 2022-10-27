@@ -503,7 +503,8 @@
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) 阐释计算机科学最重要的 9 个学科，给出了学习建议和学习顺序，并给出了最优质的学习书籍和课程视频。
 - [System Design Primer](https://github.com/donnemartin/system-design-primer) 系统设计、架构通识的收集汇总。对每个知识点提供了精炼的讲解以及深入学习的资料链接。
 - [掘金翻译计划](https://github.com/xitu/gold-miner) 翻译了很多优质文章，涉及到各个编程领域。碎片化阅读的资料来源。
-- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。
+- [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning) 一份非常全面且高质量的学习资源指南。
+- [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes) 涵盖算法、操作系统、计算机网络、数据库、系统设计、Java 的知识点收集。面试导向。
 - [Most influential books for programmers](https://github.com/cs-books/influential-cs-books) 经典书籍。
 - [纳瓦尔的推荐书单](https://www.navalmanack.com/navals-recommended-reading)。[豆瓣书单搬运](https://www.douban.com/doulist/147631922/)。
 
