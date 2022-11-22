@@ -270,6 +270,7 @@
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
 
 - [C 程序设计语言](https://book.douban.com/subject/1882483/)
+- [Linux C编程一站式学习](https://book.douban.com/subject/6025290/) 别名：《一站式学习C编程》。[评价非常好](https://www.zhihu.com/search?type=content&q=Linux%20C%E7%BC%96%E7%A8%8B%E4%B8%80%E7%AB%99%E5%BC%8F%E5%AD%A6%E4%B9%A0)的一本书。以C语言为载体，讲解计算机原理和程序原理，结合编译原理、操作系统、计算机体系结构一起讲。涵盖面非常广，并且循序渐进，非常适合入门。[在线阅读](https://akaedu.github.io/book/)，[习题答案](https://www.zybuluo.com/ChristopherWu/note/72463)。
 - [C++ Primer](https://book.douban.com/subject/25708312/)
 - [Effective C++](https://book.douban.com/subject/1842426/)
 - STL: [Effective STL](https://book.douban.com/subject/24534868/) + [STL 源码剖析](https://book.douban.com/subject/1110934/)
