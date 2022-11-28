@@ -108,6 +108,7 @@
 
 - [Algorithms(算法概论)](https://book.douban.com/subject/1996256/) 相对于 Introduction to Algorithms 和 Algorithms，这本书很薄，但是它的讲解简单优美有趣，适合初学者。
 - [Algorithms](https://book.douban.com/subject/19952400/) 每个开发者必知必会的数据结构和算法。也是经典教材，评价很高。相比于 Introduction to Algorithms，这本书是从开发者的需要出发，介绍那些实用的算法，相对易懂；而 Introduction to Algorithms 是更加系统、深入地研究算法理论。[配套网站](https://algs4.cs.princeton.edu/home/)中包含了算法精讲以及习题答案。
+- [算法设计手册(The Algorithm Design Manual)](https://book.douban.com/subject/4048566/)。对算法问题分类，通过实例介绍算法的应用场景，并提供了多种解决方案以及权衡思路。让读者更容易学会如何在实践中使用。[配套网站](https://www3.cs.stonybrook.edu/~skiena/algorist/book/)。如果你更喜欢通过视频来学习，作者慷慨地提供了[配套课程](https://www3.cs.stonybrook.edu/~skiena/373/videos/)。
 - [Introduction to Algorithms](https://book.douban.com/subject/3904676/) 推荐率最高的算法书。经典、全面、深入。它的难度和容量可能有点大，不适合入门者。不适合以“解决问题”为导向的学习，适合以“算法研究”为导向的学习。
 - [编程珠玑](https://book.douban.com/subject/3227098/)。相对较薄的一本书。本书并没有系统地归纳各种算法，而是通过一些精心设计的有趣而又颇具指导意义的程序实例，引导读者理解问题、选择和实现算法。
 - [编程之美](https://book.douban.com/subject/3004255/) 面试的经典问题，引发读者思考，领略算法的乐趣。
