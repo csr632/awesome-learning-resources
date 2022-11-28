@@ -169,6 +169,9 @@
 - [Engineering a Compiler](https://book.douban.com/subject/5288601/)。偏向编译器后端。
 - [高级编译器设计与实现](https://book.douban.com/subject/1400374/)。鲸书。偏向编译器后端。
 
+【实用的、补充性的学习材料】，用于入门时的对照参考：
+- [Crafting Interpreters](https://craftinginterpreters.com/) 实践性强，条理清晰，可以跟随作者一起，动手实现两个真正的解释器。
+
 # 操作系统实践（Linux 运维）
 
 <font size="2" style="margin-left:10px;">[回到目录 ↑](#目录)</font>
