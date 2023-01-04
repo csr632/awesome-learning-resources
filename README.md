@@ -184,6 +184,8 @@
 
 - [Google SRE](https://book.douban.com/subject/26875239/) 来自 Google 的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
 
+- [Systems Performance: Enterprise and the Cloud](https://www.brendangregg.com/systems-performance-2nd-edition-book.html)。中文版：[《性能之巅》](https://book.douban.com/subject/35934902/)。讲解系统性能分析的模型和工具。
+
 - [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/) 中文入门 docker 的不二之选。不过入门以后最好看官方文档，更加详细。
 
 # UNIX 编程
