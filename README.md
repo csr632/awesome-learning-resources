@@ -123,7 +123,9 @@
   - [配套项目](https://github.com/remzi-arpacidusseau/ostep-projects)
 - [Operating Systems: Principles and Practice](http://recursivebooks.com/) 多个知名大学将其作为教科书。
   > 相关知乎回答：[有没有好的操作系统的书？ - 知乎](https://www.zhihu.com/question/31863104)
-- [6.828](https://pdos.csail.mit.edu/6.828/2020/schedule.html) MIT 的操作系统课程，经常被推荐。按照这个课程安排，阅读讲义、动手实践。
+- [rCore](https://github.com/rcore-os/rCore-Tutorial-v3) 是一个教你“从零开始用Rust语言写一个基于RISC-V架构的类Unix内核”的教程项目，它起源于清华大学的操作系统课程，完成度和维护活跃度都相当高。作为一个中文教程，它对中文学习者非常友好。相关课程：[开源操作系统训练营](https://github.com/LearningOS/rust-based-os-comp2022)。
+- [Introduction to Operating Systems (MIT - 6.1810)](https://pdos.csail.mit.edu/6.1810/) MIT 的操作系统课程，经常被推荐。按照这个课程安排，阅读讲义、动手实践。
+  - 备注：以前的6.828课程从2019年起被拆分成了[6.1810](https://pdos.csail.mit.edu/6.1810/)（本科生课程）和[6.5810](https://abelay.github.io/6828seminar/index.html)（研究生课程）。
 
 # 计算机网络
 
@@ -158,6 +160,7 @@
 - [数据密集型应用系统设计(DDIA)](https://book.douban.com/subject/30329536/) 分布式领域神书。帮助你理解分布式系统设计的原则和权衡。兼具广度、深度、可读性和严谨性。
   - [开源翻译版本](https://github.com/Vonng/ddia)。
 - [分布式系统：概念与设计](https://book.douban.com/subject/21624776/) 经典教科书。
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) PingCAP提供的分布式系统教程，它由一系列实训项目组成，使用Rust和Golang实现。
 
 # 编译原理
 
@@ -181,6 +184,9 @@
 - [UNIX/Linux 系统管理技术手册](https://book.douban.com/subject/10747453/) 实操手册，全面阐述了Linux相关概念。
 - [鸟哥的 Linux 私房菜 - 基础学习篇](https://book.douban.com/subject/4889838/)，[鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/) 应该很多人听说过这本书了，知识点详尽。有人说鸟哥的书讲得“太详细”了，以至于阅读起来有点吃力。
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) 命令行的实用技巧。Start 数量惊人。。。
+- [tldr](https://github.com/tldr-pages/tldr) 是一个命令行手册速查工具，可以查询各种操作系统命令的用法。它的返回结果比man pages要简洁得多，而且提供了很多示例。[在线使用](https://tldr.ostera.io/)。
+  - [cheat.sh](https://github.com/chubin/cheat.sh) 整合了多个手册的数据源（包括tldr），合并成一个手册查询工具。[在线使用](https://cheat.sh/)
+  - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) 也是一个开源的命令行速查工具，它的优势是支持中文。
 
 - [Google SRE](https://book.douban.com/subject/26875239/) 来自 Google 的运维书，它讨论如何运维大型软件系统，同时提高可靠性。
 
@@ -295,7 +301,10 @@
 - [The Rust Programming Language](https://doc.rust-lang.org/book/index.html) Rust 官方推荐教材。详尽涵盖了 Rust 的理论基础。最好结合下面实践资料一起学习。
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) Rust 官方出品的在线练习网站，通过练习来巩固这门语言的知识点。
 - [rustlings](https://github.com/rust-lang/rustlings) Rust 官方出品的小练习，帮助你熟悉 Rust 编程，包括代码读、写，以及 Rust 编译器的使用，实践性教程。
+- [rust-course](https://github.com/sunface/rust-course) Rust语言圣经。作为一本中文编写的指南，它对中文学习者非常友好。
 - [Rust Language Cheat Sheet](https://cheats.rs/) Rust 语言的备忘清单，非常适合随时翻阅。在保持简练的同时，兼具了不错的深度和广度。
+- [Rust自学方案](https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST) 给你指出了多种不同的自学路径，你可以根据自己的情况来选择。
+- [rust-learning](https://github.com/ctjhoa/rust-learning) 收集了更丰富（但繁杂）的Rust学习资料。
 
 # Java
 
