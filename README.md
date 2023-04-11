@@ -231,7 +231,7 @@
 - [Clean Code (代码整洁之道)](https://book.douban.com/subject/3032825/)
 - [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
 - [领域驱动设计：软件核心复杂性应对之道](https://book.douban.com/subject/5344973/) （业务）编程的本质是对真实世界的抽象和建模，本书帮助读者理解业务与代码之间的联系，以及如何设计业务代码。
-- [A Philosophy of Software Design](https://book.douban.com/subject/30218046/)
+- [A Philosophy of Software Design](https://book.douban.com/subject/30218046/) 简明扼要地探讨了软件设计的思想、实践和误区。可以与[作者的同主题讲座](https://www.youtube.com/watch?v=bmSAYlu0NcY)配合观看。
 
 # 程序员的自我修养
 
