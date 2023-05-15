@@ -71,10 +71,11 @@
 建立对计算机和编程的基本认识。
 
 - [计算机程序的构造和解释(SICP)](https://book.douban.com/subject/1148282/) 神书，Scheme 三剑客之一。修炼编程内功，理解计算机和编程的本质。务必完成书中的练习。
-  - [官方 HTML 版](https://mitpress.mit.edu/sicp/)、[精校版](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
+  - [HTML版](https://sarabander.github.io/sicp/)、[精校PDF版](https://github.com/sarabander/sicp-pdf)、[SICP电子书项目](https://sicpebook.wordpress.com/)、[习题答案](http://community.schemewiki.org/?sicp-solutions)
   - [SICP 公开课中文化项目](https://github.com/DeathKing/Learning-SICP)有 SICP 课程的中英文资源。
   - 语言&编辑器：做练习的时候推荐使用[Racket](https://racket-lang.org/)并安装[SICP 扩展包](https://docs.racket-lang.org/sicp-manual/)。Racket 的 IDE 使用体验比 MIT-Scheme 好很多，并且 Racket 本身也是一门非常年轻优秀的 Scheme 方言。
-  - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[composingprograms](https://composingprograms.com/)是一位伯克利教授做的教学网站，用**Python**来教 SICP，作为 cs61a 的教科书使用。适合想要通过Python（而不是SICP所使用的Lisp）来入门编程的人。
+  - [伯克利 cs61a 课程](https://cs61a.org/)用**Python**来教 SICP，在课程官网可以找到很多有用的资源。[Composing Programs](https://composingprograms.com/)是 cs61a 的教材。适合想要通过Python（而不是SICP所使用的Lisp）来入门编程的人。
+  - [伯克利 cs61as 课程](https://berkeley-cs61as.github.io/index.html)是 cs61a 的姊妹课程，两者覆盖内容相同，只不过使用不同的教学方式：cs61as 使用lab自主学习的方式，并且使用Racket语言而不是Python语言。因此[cs61as教材](https://berkeley-cs61as.github.io/textbook.html)是更适合自学+动手实践的学习材料。
   - 学习 Lisp 之前可以看看这两篇经典的博文：[Lisp 的本质(The Nature of Lisp)](https://www.cnblogs.com/Leap-abead/articles/762180.html)、[Lisp 的永恒之道](https://www.cnblogs.com/weidagang2046/archive/2012/06/03/tao_of_lisp.html)。让你提前对 Lisp 的魔法有所了解。
 - [Essentials of Programming Languages(EOPL)](https://book.douban.com/subject/3136252/) Scheme 三剑客之一，助你看透编程语言的本质。
 - [Programming Languages: Application and Interpretation (PLAI)](https://www.plai.org/) Scheme 三剑客之一，助你看透编程语言的本质。
