@@ -350,19 +350,21 @@
 
 ## 前端杂项
 
-- [奇舞周刊](https://weekly.75team.com/) 每周推荐几篇前端精华文章。
-- [前端小密圈](https://github.com/jawil/blog) 前端文章推荐列表。很多干货，Star 数量也挺高的。
-- [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
+周刊/订阅号：
+  - [奇舞周刊](https://weekly.75.team/) 每周推荐几篇前端精华文章。
+  - [前端精读周刊](https://github.com/ascoders/weekly)
+  - [MDH 前端周刊](https://github.com/sorrycc/weekly) 云谦运营的前端周刊。
+  - [前端周刊](https://github.com/zenany/weekly) 平侠运营的前端周刊。
+  - [JavaScript Weekly](https://javascriptweekly.com/issues)
+
 - [当你在浏览器中输入 google.com 并且按下回车之后发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN) 经典面试题的完整回答。下次面试被问到这个问题，你能把面试官答到崩溃。[英文原版仓库](https://github.com/alex/what-happens-when)star 数量很高。
 - [How browsers work](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) 浏览器工作原理。弄懂它是理解前端性能优化的基础。相关中文文章：[中文翻译](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)、[浏览器的渲染原理简介](https://coolshell.cn/articles/9666.html)、[浅析前端页面渲染机制](http://blog.codingplayboy.com/2017/03/29/webpage_render/)。
 - [Inside look at modern web browser | Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)。[中文解析](https://zhuanlan.zhihu.com/p/47407398)。
 - 前端性能优化清单：
-  - [PageSpeed Insights Rules - Google](https://developers.google.com/speed/docs/insights/rules)
-  - [Performance - Google Web Fundamentals](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-  - [Best Practices for Speeding Up Your Web Site - yahoo](https://developer.yahoo.com/performance/rules.html)
-  - [14 Rules for Faster-Loading Web Sites](http://stevesouders.com/hpws/rules.php)
-  - [2020 前端性能优化清单](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
-  - [CSS Animation 性能优化](https://www.w3cplus.com/animation/animation-performance.html)
+  - [Optimizing Core Web Vitals - web.dev](https://web.dev/top-cwv-2023/)
+  - [Front-End Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+  - [前端性能优化清单](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [InterviewMap](https://github.com/InterviewMap/InterviewMap) 针对前端的知识点清单，对于查漏补缺非常有用。
 - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook) 提供了前端常见面试问题的答案。它只是面试题的集合，而不是系统化的知识总结，因此只适用于准备面试和查漏补缺。
 - [Front-end development handbook](https://github.com/FrontendMasters/front-end-handbook-2018) 对于前端的基础知识点，提供了很多优质的资源链接。
 - [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)，或者[它的中文翻译版](https://github.com/starkwang/the-super-tiny-compiler-cn)。 Node、Typescript、Babel 以及**大部分现代前端框架**都和编译器有着密切的关系，要成为一流的前端必须了解编译器的知识。更何况编译器的知识在各个语言都是基本通用的。
