@@ -351,10 +351,11 @@
 ## 前端杂项
 
 周刊/订阅号：
+  - [前端早早聊](https://www.zaozao.run/) 持续收集推荐社区上的优质文章干货。
   - [奇舞周刊](https://weekly.75.team/) 每周推荐几篇前端精华文章。
   - [前端精读周刊](https://github.com/ascoders/weekly)
   - [MDH 前端周刊](https://github.com/sorrycc/weekly) 云谦运营的前端周刊。
-  - [前端周刊](https://github.com/zenany/weekly) 平侠运营的前端周刊。
+  - [平侠的前端周刊](https://github.com/zenany/weekly)
   - [JavaScript Weekly](https://javascriptweekly.com/issues)
 
 ---
